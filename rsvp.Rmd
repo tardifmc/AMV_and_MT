@@ -1,0 +1,14 @@
+---
+title: "rsvp"
+# description: |
+#   some info about the schedule
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<center>
+instructions on how to rsvp
+
+</center>

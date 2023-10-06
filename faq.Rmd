@@ -1,0 +1,14 @@
+---
+title: "faq"
+# description: |
+#   some info about the schedule
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<center>
+some faqs
+
+</center>

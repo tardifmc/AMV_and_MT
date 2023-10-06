@@ -1,13 +1,17 @@
 name: "gpetersii"
-title: "gpetersii"
+title: " "
 description: |
   gpetersii
 output_dir: "docs"
 navbar:
   right:
-    - text: "Home"
+    - text: "home"
       href: index.html
-    - text: "About"
-      href: about.html
+    - text: "schedule"
+      href: schedule.html
+    - text: "rsvp"
+      href: rsvp.html
+    - text: "faq"
+      href: faq.html
 output: distill::distill_article
 theme: "theme.css"
