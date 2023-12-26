@@ -13,5 +13,5 @@ knitr::include_graphics("images/pokeball.png")
 <center>
 # month, date, year
 ## location, state
-# test changes on new machine
+Add some text here
 </center>
