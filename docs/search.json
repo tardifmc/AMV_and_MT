@@ -5,28 +5,35 @@
       "title": "faq",
       "author": [],
       "contents": "\r\n\r\nsome faqs\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-12-25T20:49:59-05:00"
+      "last_modified": "2023-12-25T21:36:48-05:00"
     },
     {
       "path": "index.html",
       "title": "jina & leslie",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n\r\n\r\nmonth, date, year\r\nlocation, state\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-12-25T21:27:49-05:00"
+      "last_modified": "2023-12-25T21:36:29-05:00"
+    },
+    {
+      "path": "pictures.html",
+      "title": "pitures",
+      "author": [],
+      "contents": "\r\n\r\nadd some pictures here\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2023-12-25T21:36:43-05:00"
     },
     {
       "path": "rsvp.html",
       "title": "rsvp",
       "author": [],
       "contents": "\r\n\r\ninstructions on how to rsvp\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-12-25T20:49:59-05:00"
+      "last_modified": "2023-12-25T21:36:33-05:00"
     },
     {
       "path": "schedule.html",
       "title": "schedule",
       "author": [],
       "contents": "\r\n\r\nsome info about the schedule\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2023-12-25T20:49:59-05:00"
+      "last_modified": "2023-12-25T21:36:38-05:00"
     }
   ],
   "collections": []

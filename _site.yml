@@ -11,6 +11,8 @@ navbar:
       href: schedule.html
     - text: "rsvp"
       href: rsvp.html
+    - text: "pictures"
+      href: pictures.html
     - text: "faq"
       href: faq.html
 output: distill::distill_article

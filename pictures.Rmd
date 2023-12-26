@@ -1,7 +1,7 @@
 ---
-title: "faq"
+title: "pitures"
 # description: |
-#   some faqs
+#   some pictures
 ---
 
 ```{r setup, include=FALSE}
@@ -9,6 +9,6 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 <center>
-some faqs
+add some pictures here
 
 </center>
