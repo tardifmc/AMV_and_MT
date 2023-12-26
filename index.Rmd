@@ -8,11 +8,10 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ```{r, fig.align='center', out.width = "300px"}
-# Wrap the image in an anchor tag
-cat('<a href="https://lzhen4.github.io/gpetersii/schedule.html">', sep = '')
-knitr::include_graphics("images/pokeball.png")
-cat('</a>', sep = '')
+#knitr::include_graphics("images/pokeball.png")
 ```
+[![Pokeball](images/pokeball.png)](https://google.com)
+
 <center>
 # month, date, year
 ## location, state
