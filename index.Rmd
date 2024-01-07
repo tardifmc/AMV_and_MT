@@ -3,6 +3,8 @@ title: "jina & leslie"
 site: distill::distill_website
 ---
 
+
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
@@ -10,6 +12,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```{r, fig.align='center', out.width = "300px"}
 #knitr::include_graphics("images/pokeball.png")
 ```
+
 [![Pokeball](images/pokeball.png)](https://lzhen4.github.io/gpetersii/pictures.html)
 
 <center>

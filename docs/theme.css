@@ -37,6 +37,14 @@ html {
   --navbar-font:     "Roboto", sans-serif;  /* websites + blogs only */
 }
 
+/* Add CSS styles to make images responsive */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+
 /*-- ARTICLE METADATA --*/
 d-byline {
   --heading-size:    0.6rem;
