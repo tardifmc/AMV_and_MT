@@ -2,6 +2,7 @@
 title: "pictures"
 # description: |
 #   some pictures
+# pixture library from https://github.com/royfrancis/pixture
 ---
 
 ```{r setup, include=FALSE}
@@ -9,4 +10,14 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
-![Evie2](images/evie2.png)
+```{r}
+paths <- c(
+  "images/evie1.png",
+  "images/evie2.png",
+  "images/pokeball.png",
+  "https://images.pexels.com/photos/3773652/pexels-photo-3773652.jpeg"
+)
+
+library(pixture)
+pixgallery(paths)
+```
