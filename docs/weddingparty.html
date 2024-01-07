@@ -2212,7 +2212,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     --navbar-font:     "Roboto", sans-serif;  /* websites + blogs only */
   }
 
-  /* Add CSS styles to make images responsive */
+
+  /* Add CSS styles to make images responsive to window size*/
   img {
     max-width: 100%;
     height: auto;
@@ -2224,7 +2225,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   d-byline {
     --heading-size:    0.6rem;
     --heading-color:   rgba(0, 0, 0, 0.5);
-    --body-size:       0.8rem;
+    --body-size:       .8rem;
     --body-color:      rgba(0, 0, 0, 0.8);
   }
 
@@ -2481,11 +2482,24 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
 <div class="d-article">
+<div class="floatting">
 <div class="layout-chunk" data-layout="l-body">
-<p><img src="images/evie1.png" width="200px" style="float:center; padding:10px" /></p>
+<p><img src="images/evie1.png" width="30%" style="float:right; padding:10px" /></p>
 </div>
 <h1 id="evie">Evie</h1>
-<p>Evie spends most of her time sleeping.</p>
+<h3 id="awake-mode">Awake Mode</h3>
+<p>Evie has pointy ears. And her eyes are extra big.</p>
+</div>
+<p><br>
+<br></p>
+<div class="floatting">
+<div class="layout-chunk" data-layout="l-body">
+<p><img src="images/evie2.png" width="30%" style="float:left; padding:10px" /></p>
+</div>
+<h1 id="evie-1">Evie</h1>
+<h3 id="sleeping-mode">Sleeping Mode</h3>
+<p>Evie spends most of her time napping. Look at that chin. Dem ears still pointy.</p>
+</div>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->

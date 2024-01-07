@@ -2,16 +2,29 @@
 title: "wedding party"
 # description: |
 #   some pictures
+
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
+::: {.floatting}
 
-
-
-```{r out.width='200px', out.extra='style="float:center; padding:10px"', echo=FALSE}
+```{r out.width='30%', out.extra='style="float:right; padding:10px"', echo=FALSE}
 knitr::include_graphics("images/evie1.png")
 ```
 # Evie
-Evie spends most of her time sleeping.
+### Awake Mode 
+Evie has pointy ears. And her eyes are extra big.
+:::
+
+<br>
+<br>
+
+::: {.floatting}
+
+```{r out.width='30%', out.extra='style="float:left; padding:10px"', echo=FALSE}
+knitr::include_graphics("images/evie2.png")
+```
+
+# Evie
+### Sleeping Mode
+Evie spends most of her time napping. Look at that chin. Dem ears still pointy.
+:::
