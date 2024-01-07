@@ -8,8 +8,5 @@ title: "pictures"
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-![](images/evie1.png)
 
-![](images/evie2.png)
-
-
+![Evie2](images/evie2.png)

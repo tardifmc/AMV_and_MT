@@ -1,0 +1,17 @@
+---
+title: "wedding party"
+# description: |
+#   some pictures
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+
+```{r out.width='200px', out.extra='style="float:left; padding:10px"', echo=FALSE}
+knitr::include_graphics("images/evie1.png")
+```
+# Evie
+Evie spends most of her time sleeping.

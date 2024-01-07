@@ -11,6 +11,8 @@ navbar:
       href: schedule.html
     - text: "rsvp"
       href: rsvp.html
+    - text: "wedding party"
+      href: weddingparty.html
     - text: "pictures"
       href: pictures.html
     - text: "faq"
