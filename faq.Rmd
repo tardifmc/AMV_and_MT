@@ -9,6 +9,16 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 <center>
-some faqs
+# Where can I stay?
+We will post hotel information soon.
+
+# Can I bring kids?
+We cannot accommodate kids at the venue.
+
+# What is the dress code?
+Guests are encouraged to dress in cocktail attire.
+
+# What are the parking options?
+Those staying in our hotel blocks can opt in to a shuttle service when we mail invitations.
 
 </center>

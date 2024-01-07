@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = FALSE)
 [![Pokeball](images/pokeball.png)](https://lzhen4.github.io/gpetersii/pictures.html)
 
 <center>
-# month, date, year
+# December, date, 2024
 ## location, state
 </center>
 
