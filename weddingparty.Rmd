@@ -12,7 +12,7 @@ knitr::include_graphics("images/evie1.png")
 ```
 # Evie
 ### Awake Mode 
-Evie has pointy ears. And her eyes are extra big.
+Evie's hiding behind the shades. She's floofy and her eyes are extra big. Her ears are so pointy!
 :::
 
 <br>
