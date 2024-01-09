@@ -5,6 +5,8 @@ title: "wedding party"
 
 ---
 
+
+
 ::: {.floatting}
 
 ```{r out.width='30%', out.extra='style="float:right; padding:10px"', echo=FALSE}
@@ -169,5 +171,21 @@ knitr::include_graphics("images/evie2.png")
 knitr::include_graphics("images/evie1.png")
 ```
 # Evie
-### Best Kitty
+### Floof Ambassador
+Evie likes to nap.
+:::
+
+
+
+<br>
+<br>
+
+::: {.floatting}
+
+```{r out.width='30%', out.extra='style="float:right; padding:10px"', echo=FALSE}
+knitr::include_graphics("images/pippin.png")
+```
+# Pippin
+### Floof Ambassador
+Pippin's been cleaning her tux for the occasion. 
 :::
