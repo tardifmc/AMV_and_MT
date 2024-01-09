@@ -15,7 +15,8 @@ paths <- c(
   "images/evie1.png",
   "images/evie2.png",
   "images/pippin.png",  
-  "images/pics1.png"
+  "images/pics1.png",
+  "images/pics2.png"
 )
 
 library(pixture)

@@ -136,7 +136,7 @@ knitr::include_graphics("images/jing.png")
 ::: {.floatting}
 
 ```{r out.width='30%', out.extra='style="float:left; padding:10px"', echo=FALSE}
-knitr::include_graphics("images/evie1.png")
+knitr::include_graphics("images/monique.png")
 ```
 
 # Monique
