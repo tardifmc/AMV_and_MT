@@ -12,9 +12,6 @@ knitr::opts_chunk$set(echo = FALSE)
 # Where can I stay?
 We will post hotel information soon.
 
-# Can I bring kids?
-We cannot accommodate kids at the venue.
-
 # What is the dress code?
 Guests are encouraged to dress in cocktail attire.
 
