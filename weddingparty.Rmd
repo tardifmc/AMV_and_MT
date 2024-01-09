@@ -120,7 +120,7 @@ knitr::include_graphics("images/evie1.png")
 ::: {.floatting}
 
 ```{r out.width='30%', out.extra='style="float:left; padding:10px"', echo=FALSE}
-knitr::include_graphics("images/evie2.png")
+knitr::include_graphics("images/jing.png")
 ```
 
 # Jing
