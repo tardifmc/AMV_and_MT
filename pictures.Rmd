@@ -14,8 +14,8 @@ knitr::opts_chunk$set(echo = FALSE)
 paths <- c(
   "images/evie1.png",
   "images/evie2.png",
-  "images/pokeball.png",
-  "https://images.pexels.com/photos/3773652/pexels-photo-3773652.jpeg"
+  "images/pippin.png",  
+  "images/pics1.png"
 )
 
 library(pixture)
