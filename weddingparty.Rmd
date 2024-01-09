@@ -10,10 +10,76 @@ title: "wedding party"
 ```{r out.width='30%', out.extra='style="float:right; padding:10px"', echo=FALSE}
 knitr::include_graphics("images/evie1.png")
 ```
-# Evie
-### Awake Mode 
-Evie's hiding and posing behind the curtains. Her ears are so pointy!
+# Stephanie
+### BFF of Honor
+
 :::
+
+
+
+<br>
+<br>
+
+::: {.floatting}
+
+```{r out.width='30%', out.extra='style="float:right; padding:10px"', echo=FALSE}
+knitr::include_graphics("images/evie2.png")
+```
+
+# Ali
+### Bridesmate
+
+:::
+
+
+
+<br>
+<br>
+
+::: {.floatting}
+
+```{r out.width='30%', out.extra='style="float:right; padding:10px"', echo=FALSE}
+knitr::include_graphics("images/evie1.png")
+```
+
+# Malisha
+### Bridesmate
+
+:::
+
+
+
+<br>
+<br>
+
+::: {.floatting}
+
+```{r out.width='30%', out.extra='style="float:right; padding:10px"', echo=FALSE}
+knitr::include_graphics("images/evie2.png")
+```
+
+# Manasa
+### Bridesmate
+
+:::
+
+
+
+<br>
+<br>
+
+::: {.floatting}
+
+```{r out.width='30%', out.extra='style="float:right; padding:10px"', echo=FALSE}
+knitr::include_graphics("images/evie1.png")
+```
+
+# Pooja
+### Bridesmate
+
+:::
+
+
 
 <br>
 <br>
@@ -24,7 +90,84 @@ Evie's hiding and posing behind the curtains. Her ears are so pointy!
 knitr::include_graphics("images/evie2.png")
 ```
 
+# Victor
+### Best Brother
+
+:::
+
+
+<br>
+<br>
+
+::: {.floatting}
+
+```{r out.width='30%', out.extra='style="float:left; padding:10px"', echo=FALSE}
+knitr::include_graphics("images/evie1.png")
+```
+
+# I
+### Groomsmate
+
+:::
+
+
+
+<br>
+<br>
+
+::: {.floatting}
+
+```{r out.width='30%', out.extra='style="float:left; padding:10px"', echo=FALSE}
+knitr::include_graphics("images/evie2.png")
+```
+
+# Jing
+### Groomsmate
+
+:::
+
+
+
+<br>
+<br>
+
+::: {.floatting}
+
+```{r out.width='30%', out.extra='style="float:left; padding:10px"', echo=FALSE}
+knitr::include_graphics("images/evie1.png")
+```
+
+# Monique
+### Groomsmate
+
+:::
+
+
+
+<br>
+<br>
+
+::: {.floatting}
+
+```{r out.width='30%', out.extra='style="float:left; padding:10px"', echo=FALSE}
+knitr::include_graphics("images/evie2.png")
+```
+
+# Waris
+### Groomsmate
+
+:::
+
+
+
+<br>
+<br>
+
+::: {.floatting}
+
+```{r out.width='30%', out.extra='style="float:right; padding:10px"', echo=FALSE}
+knitr::include_graphics("images/evie1.png")
+```
 # Evie
-### Sleeping Mode
-Evie spends most of her time napping. Look at that chin. Dem ears still pointy.
+### Best Kitty
 :::
