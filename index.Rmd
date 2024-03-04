@@ -16,10 +16,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <style>
   .transition-link {
-    transition: transform 0.3s ease;
+    transition: fade;
   }
   .transition-link:hover {
-    transform: scale(1.05);
+    color: blue;
+    transform: translateX(5px);
   }
 </style>
 
