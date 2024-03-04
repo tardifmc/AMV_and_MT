@@ -41,7 +41,7 @@ knitr::include_graphics("images/ali.png")
 ::: {.floatting}
 
 ```{r out.width='40%', out.extra='style="float:right; padding:10px"', echo=FALSE}
-knitr::include_graphics("images/evie1.png")
+knitr::include_graphics("images/malisha.png")
 ```
 
 # Malisha
