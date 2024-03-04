@@ -25,7 +25,7 @@ knitr::include_graphics("images/steph.png")
 ::: {.floatting}
 
 ```{r out.width='40%', out.extra='style="float:right; padding:10px"', echo=FALSE}
-knitr::include_graphics("images/evie2.png")
+knitr::include_graphics("images/ali.png")
 ```
 
 # Ali
@@ -57,7 +57,7 @@ knitr::include_graphics("images/evie1.png")
 ::: {.floatting}
 
 ```{r out.width='40%', out.extra='style="float:right; padding:10px"', echo=FALSE}
-knitr::include_graphics("images/evie2.png")
+knitr::include_graphics("images/manasa.png")
 ```
 
 # Manasa
@@ -73,7 +73,7 @@ knitr::include_graphics("images/evie2.png")
 ::: {.floatting}
 
 ```{r out.width='40%', out.extra='style="float:right; padding:10px"', echo=FALSE}
-knitr::include_graphics("images/evie1.png")
+knitr::include_graphics("images/pooja.png")
 ```
 
 # Pooja
