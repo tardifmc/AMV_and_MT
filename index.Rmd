@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = FALSE)
 [![Pokeball](images/envelope.png)](https://lzhen4.github.io/gpetersii/pictures.html)
 
 <center>
-# December, date, 2024
-## location, state
+# 12.7.24
+## domaine pterion, pa
 </center>
 
