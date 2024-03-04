@@ -11,21 +11,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```{r, fig.align='center', out.width = "300px"}
 #knitr::include_graphics("images/pokeball.png")
-#[![Envelope](images/envelope.gif)](https://lzhen4.github.io/gpetersii/pictures.html)
 ```
 
-<style>
-  .transition-link {
-    transition: fade;
-  }
-  .transition-link:hover {
-    color: blue;
-    transform: translateX(5px);
-  }
-</style>
-
-
-[![Envelope](images/envelope.gif){.transition-link}](https://lzhen4.github.io/gpetersii/pictures.html)
+[![Envelope](images/envelope.gif)](https://lzhen4.github.io/gpetersii/pictures.html)
 
 <center>
 # 12.7.24
