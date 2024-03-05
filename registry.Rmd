@@ -7,6 +7,26 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 <center>
-coming soon
+
+::: {.floatting}
+
+<a href = "https://www.amazon.com/wedding/share/jina_leslie">
+```{r out.width='40%', out.extra='style="float:left; padding:10px"', echo=FALSE}
+knitr::include_graphics("images/amazon.png") 
+```
+:::
+</a>
+
+
+::: {.floatting}
+
+<a href = "https://www.amazon.com/wedding/share/jina_leslie">
+```{r out.width='40%', out.extra='style="float:right; padding:10px"', echo=FALSE}
+knitr::include_graphics("images/target.png") 
+```
+:::
+</a>
+
+
 
 </center>
