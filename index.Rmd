@@ -17,6 +17,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <center>
 # 12.7.24
-## domaine pterion, pa
+## domaine pterion
 </center>
 
