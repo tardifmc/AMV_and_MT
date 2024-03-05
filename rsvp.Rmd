@@ -1,7 +1,5 @@
 ---
 title: "rsvp"
-# description: |
-#   some info about the schedule
 ---
 
 ```{r setup, include=FALSE}
@@ -9,8 +7,6 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 <center>
-Use the code in your invitation to RSVP.
-
-Link coming soon.
+coming soon
 
 </center>

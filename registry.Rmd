@@ -1,7 +1,5 @@
 ---
-title: "schedule"
-# description: |
-#   some info about the schedule
+title: "registry"
 ---
 
 ```{r setup, include=FALSE}
