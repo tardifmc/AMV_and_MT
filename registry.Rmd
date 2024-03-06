@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ::: {.floatting}
 
 <a href = "https://www.amazon.com/wedding/share/jina_leslie">
-```{r out.width='40%', out.extra='style="float:left; padding:10px"', echo=FALSE}
+```{r out.width='30%', out.extra='style="float:left; padding:10px"', echo=FALSE}
 knitr::include_graphics("images/amazon.png") 
 ```
 :::
@@ -20,8 +20,8 @@ knitr::include_graphics("images/amazon.png")
 
 ::: {.floatting}
 
-<a href = "https://www.amazon.com/wedding/share/jina_leslie">
-```{r out.width='40%', out.extra='style="float:right; padding:10px"', echo=FALSE}
+<a href = "https://www.target.com/gift-registry/gift/jina-leslie4">
+```{r out.width='30%', out.extra='style="float:right; padding:10px"', echo=FALSE}
 knitr::include_graphics("images/target.png") 
 ```
 :::
