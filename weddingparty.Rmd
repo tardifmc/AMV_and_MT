@@ -167,6 +167,21 @@ knitr::include_graphics("images/waris.png")
 
 ::: {.floatting}
 
+```{r out.width='40%', out.extra='style="float:left; padding:10px"', echo=FALSE}
+knitr::include_graphics("images/evie2.png")
+```
+
+# Yvonne
+### Groomsmate
+
+:::
+
+
+<br>
+<br>
+
+::: {.floatting}
+
 ```{r out.width='40%', out.extra='style="float:right; padding:10px"', echo=FALSE}
 knitr::include_graphics("images/evie1.png")
 ```
