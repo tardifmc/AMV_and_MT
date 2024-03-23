@@ -36,7 +36,6 @@ knitr::include_graphics("images/amazon.png")
 <br>
 <br>
 <br>
-<br>
 
 ::: {.floatting}
 <a href = "https://www.target.com/gift-registry/gift/jina-leslie4">
