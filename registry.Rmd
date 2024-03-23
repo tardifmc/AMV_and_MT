@@ -9,9 +9,9 @@ knitr::opts_chunk$set(echo = FALSE)
 <center>
 ::: {.floatting}
 
-<a href = "https://www.target.com/gift-registry/gift/jina-leslie4">
-```{r out.width='30%', out.extra='style="float:left; padding:10px"', echo=FALSE}
-knitr::include_graphics("images/target.png") 
+<a href = "https://account.venmo.com/u/Jina-Yun-2">
+```{r out.width='25%', out.extra='style="float:left; padding:10px"', echo=FALSE}
+knitr::include_graphics("images/honeymoon.png") 
 ```
 :::
 </a>
@@ -26,18 +26,23 @@ knitr::include_graphics("images/amazon.png")
 </a>
 
 
-<br>
-<br>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ::: {.floatting}
-
-<a href = "https://account.venmo.com/u/Jina-Yun-2">
-```{r out.width='60%', out.extra='style="float:center; padding:10px"', echo=FALSE}
-knitr::include_graphics("images/honeymoon.png") 
+<a href = "https://www.target.com/gift-registry/gift/jina-leslie4">
+```{r out.width='30%', out.extra='style="float:left; padding:10px"', echo=FALSE}
+knitr::include_graphics("images/target.png") 
 ```
 :::
 </a>
-
-
 </center>
