@@ -44,4 +44,13 @@ knitr::include_graphics("images/target.png")
 ```
 :::
 </a>
+
+
+::: {.floatting}
+<a href = "https://www.potterybarn.com/registry/5rh9p2vxtk/registry-list.html">
+```{r out.width='30%', out.extra='style="float:right; padding:10px"', echo=FALSE}
+knitr::include_graphics("images/potterybarn.png") 
+```
+:::
+</a>
 </center>
