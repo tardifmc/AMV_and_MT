@@ -23,6 +23,6 @@ L: We played board games.
 # What is our favorite Pokémon?
 J: Coming soon
 <br>
-L: Snorlax
+L: Squirtle
 
 </center>
