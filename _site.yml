@@ -5,19 +5,19 @@ description: |
 output_dir: "docs"
 navbar:
   right:
-    - text: "home"
+    - text: "Home"
       href: index.html
-    - text: "schedule"
+    - text: "Schedule"
       href: schedule.html
-    - text: "rsvp"
+    - text: "RSVP"
       href: rsvp.html
-    - text: "registry"
+    - text: "Registry"
       href: registry.html
-    - text: "wedding party"
+    - text: "Wedding Party"
       href: weddingparty.html
-    - text: "pictures"
+    - text: "Pictures"
       href: pictures.html
-    - text: "faq"
+    - text: "FAQ"
       href: faq.html
 output: distill::distill_article
 theme: "theme.css"

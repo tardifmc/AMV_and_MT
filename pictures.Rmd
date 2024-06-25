@@ -1,5 +1,5 @@
 ---
-title: "pictures"
+title: "Pictures"
 # description: |
 #   some pictures
 # pixture library from https://github.com/royfrancis/pixture
@@ -19,6 +19,6 @@ paths <- c(
   "images/pics2.png"
 )
 
-library(pixture)
-pixgallery(paths)
+#library(pixture)
+pixture::pixgallery(paths)
 ```

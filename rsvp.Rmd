@@ -1,5 +1,5 @@
 ---
-title: "rsvp"
+title: "RSVP"
 ---
 
 ```{r setup, include=FALSE}
@@ -7,6 +7,6 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 <center>
-coming soon
+Coming Soon
 
 </center>

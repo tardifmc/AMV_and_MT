@@ -1,5 +1,5 @@
 ---
-title: "schedule"
+title: "Schedule"
 # description: |
 #   some info about the schedule
 ---
@@ -10,6 +10,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <center>
 
-coming soon
+Coming Soon
 
 </center>

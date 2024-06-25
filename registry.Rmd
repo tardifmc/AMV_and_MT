@@ -1,5 +1,5 @@
 ---
-title: "registry"
+title: "Registry"
 ---
 
 ```{r setup, include=FALSE}

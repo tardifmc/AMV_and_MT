@@ -1,5 +1,5 @@
 ---
-title: "wedding party"
+title: "Wedding Party"
 # description: |
 #   some pictures
 

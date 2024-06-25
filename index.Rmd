@@ -1,5 +1,7 @@
 ---
-title: "jina & leslie"
+title: "JINA & LESLIE"
+description: |
+  December 7, 2024 | Domaine Pterion, PA
 site: distill::distill_website
 ---
 
@@ -14,9 +16,3 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 [![Monopoly](images/monopoly.png)](https://lzhen4.github.io/gpetersii/pictures.html)
-
-<center>
-# 12.7.24
-## domaine pterion
-</center>
-
