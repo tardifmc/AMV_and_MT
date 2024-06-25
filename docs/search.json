@@ -10,10 +10,10 @@
     {
       "path": "index.html",
       "title": "JINA & LESLIE",
-      "description": "December 7, 2024 | Domaine Pterion, PA\n\n<br>\n<br>\n\n<div id=\"countdown-container\">\n<div id=\"countdown\"><\/div>\n<\/div>\n<style>\n#countdown-container {\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  height: 100px; /* Adjust the height as needed */\n}\n#countdown {\n  font-size: 2em; /* Adjust the font size as needed */\n  text-align: center;\n}\n<\/style>\n<script>\n// Set the date we're counting down to\nvar countDownDate = new Date(\"Dec 31, 2024 23:59:59\").getTime();\n\n// Update the count down every 1 second\nvar x = setInterval(function() {\n\n  // Get today's date and time\n  var now = new Date().getTime();\n \n  // Find the distance between now and the count down date\n  var distance = countDownDate - now;\n \n  // Time calculations for days, hours, minutes and seconds\n  var days = Math.floor(distance / (1000 * 60 * 60 * 24));\n  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));\n  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));\n  var seconds = Math.floor((distance % (1000 * 60)) / 1000);\n \n  // Display the result in the element with id=\"countdown\"\n  document.getElementById(\"countdown\").innerHTML = days + \"d \" + hours + \"h \"\n  + minutes + \"m \" + seconds + \"s \";\n \n  // If the count down is over, write some text \n  if (distance < 0) {\n    clearInterval(x);\n    document.getElementById(\"countdown\").innerHTML = \"EXPIRED\";\n  }\n}, 1000);\n<\/script>\n",
+      "description": "December 7, 2024 | Domaine Pterion, PA\n",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2024-06-25T00:44:49-04:00"
+      "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2024-06-25T00:56:03-04:00"
     },
     {
       "path": "pictures.html",
