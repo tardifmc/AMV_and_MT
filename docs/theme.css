@@ -97,3 +97,10 @@ d-appendix {
   max-height: 40px; /* Makes logo bigger, default was 20px */
 }
 
+/* styles.css */
+body {
+  background-image: url('images/background.png');
+  background-size: cover; /* Ensure the image covers the entire background */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+}
