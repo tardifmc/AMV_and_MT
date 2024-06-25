@@ -1,0 +1,28 @@
+---
+title: "Story"
+# description: |
+#   our story
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+<center>
+# How did we meet?
+J: Coming soon
+<br>
+L: I walked up to Jina and went "How you doin'?"
+
+
+# How did the proposal go down?
+J: Coming soon
+<br>
+L: We played board games.
+
+# What is our favorite Pokémon?
+J: Coming soon
+<br>
+L: Snorlax
+
+</center>

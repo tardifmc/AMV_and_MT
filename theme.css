@@ -102,5 +102,5 @@ body {
   background-image: url('images/background.png');
   background-size: cover; /* Ensure the image covers the entire background */
   background-position: center; /* Center the image */
-  background-repeat: no-repeat; /* Do not repeat the image */
+  background-repeat: yes-repeat; /* Repeat the image to fill screen*/
 }

@@ -7,6 +7,8 @@ navbar:
   right:
     - text: "Home"
       href: index.html
+    - text: "Story"
+      href: story.html
     - text: "Schedule"
       href: schedule.html
     - text: "RSVP"
