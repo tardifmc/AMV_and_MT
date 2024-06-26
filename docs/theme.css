@@ -11,7 +11,7 @@
 /* Optional: embed custom fonts here with `@import`          */
 /* This must remain at the top of this file.                 */
 
-@import url('https://fonts.googleapis.com/css2?family=Raleway');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond');
 
 /* Add any additional CSS rules below                      */
 @import url('https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css');
@@ -31,10 +31,10 @@ html {
   --aside-color:     #FFFFFF;
   --fig-cap-color:   #FFFFFF;
   /*-- Specify custom fonts ~~~ must be imported above   --*/
-  --heading-font:    "Raleway", sans-serif;
-  --mono-font:       "Raleway", monospace;
-  --body-font:       "Raleway", sans-serif;
-  --navbar-font:     "Raleway", sans-serif;  /* websites + blogs only */
+  --heading-font:    "Cormorant Garamond", sans-serif;
+  --mono-font:       "Cormorant Garamond", monospace;
+  --body-font:       "Cormorant Garamond", sans-serif;
+  --navbar-font:     "Cormorant Garamond", sans-serif;  /* websites + blogs only */
 }
 
 /* Add CSS styles to make images responsive to window size*/
@@ -116,7 +116,7 @@ p, h1, h2, h3, h4, h5, h6, span, a {
 
 #countdown {
     font-size: 2em;
-    color: #FFFFFF; /* Adjust based on your site's background color */
+    color: #FFFFFF; /* Adjust based on site's background color */
     text-align: center;
     margin-top: 20px;
 }
