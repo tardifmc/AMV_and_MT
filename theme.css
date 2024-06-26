@@ -37,6 +37,10 @@ html {
   --navbar-font:     "Cormorant Garamond", sans-serif;  /* websites + blogs only */
 }
 
+p{
+   font-size: 1.25em; /*body text size*/
+}
+
 /* Add CSS styles to make images responsive to window size*/
 img {
   max-width: 100%;
@@ -49,7 +53,7 @@ img {
 d-byline {
   --heading-size:    0.6rem;
   --heading-color:   rgba(0, 0, 0, 0.5);
-  --body-size:       .8rem;
+  --body-size:       0.8em;
   --body-color:      rgba(0, 0, 0, 0.8);
 }
 
@@ -63,7 +67,7 @@ d-byline {
 d-appendix {
   --heading-size:    15px;
   --heading-color:   rgba(0, 0, 0, 0.65);
-  --text-size:       0.8em;
+  --text-size:       0.8rem;
   --text-color:      rgba(0, 0, 0, 0.5);
 }
 
