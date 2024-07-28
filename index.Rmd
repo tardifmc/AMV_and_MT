@@ -17,8 +17,41 @@ knitr::opts_chunk$set(echo = FALSE)
 #knitr::include_graphics("images/pokeball.png")
 ```
 
-[![Monopoly](images/monopoly.png)](https://lzhen4.github.io/gpetersii/pictures.html)
+[![Cover](images/eng14_cover.png)](https://lzhen4.github.io/gpetersii/pictures.html)
 
 
 <div id="countdown"></div>
 <script src="js/countdown.js"></script>
+
+
+```{r}
+# # Convert jpg to png
+# library(magick)
+# 
+# # Set the directory containing the jpg files
+# input_directory <- "D:\\engagement_pics"
+# output_directory <- "C:\\Users\\Leslie Zhen\\Desktop\\r_data\\gpetersii\\images"
+# 
+# # Create the output directory if it does not exist
+# if (!dir.exists(output_directory)) {
+#   dir.create(output_directory)
+# }
+# 
+# # List all jpg files in the input directory
+# jpg_files <- list.files(input_directory, pattern = "\\.jpg$", full.names = TRUE)
+# 
+# # Convert each jpg file to png
+# for (jpg_file in jpg_files) {
+#   # Read the jpg image
+#   image <- image_read(jpg_file)
+#   
+#   # Define the output file name
+#   output_file <- file.path(output_directory, paste0(tools::file_path_sans_ext(basename(jpg_file)), ".png"))
+#   
+#   # Write the image in png format
+#   image_write(image, path = output_file, format = "png")
+# }
+# 
+# cat("Conversion complete. All jpg files have been converted to png format.")
+```
+

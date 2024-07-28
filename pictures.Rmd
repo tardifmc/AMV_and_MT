@@ -12,11 +12,37 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```{r}
 paths <- c(
+  "images/eng1.png",
+  "images/eng2.png",
+  "images/eng3.png",
+  "images/eng4.png",
+  "images/eng5.png",
+  "images/eng6.png",
+  "images/eng7.png",
+  "images/eng8.png",
+  "images/eng9.png",
+  "images/eng10.png",
+  "images/eng11.png",
+  "images/eng12.png",
+  "images/eng13.png",
+  "images/eng14_cover.png",
+  "images/eng15.png",
+  "images/eng16.png",
+  "images/eng17.png",
+  "images/eng18.png",
+  "images/eng19.png",
+  "images/eng20.png",
+  "images/eng21.png",
+  "images/eng22.png",
+  "images/eng23.png",
+  "images/eng24.png",
+  
+  "images/pics1.png",
+  "images/pics2.png",
   "images/evie1.png",
   "images/evie2.png",
-  "images/pippin.png",  
-  "images/pics1.png",
-  "images/pics2.png"
+  "images/pippin.png"  
+
 )
 
 #library(pixture)
