@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = FALSE)
 #knitr::include_graphics("images/pokeball.png")
 ```
 
-[![Cover](images/eng14_cover.png)](https://lzhen4.github.io/gpetersii/pictures.html)
+[![Cover](images/eng14_cover.jpg)](https://lzhen4.github.io/gpetersii/pictures.html)
 
 
 <div id="countdown"></div>
