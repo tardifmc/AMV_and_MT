@@ -39,10 +39,10 @@ knitr::opts_chunk$set(echo = FALSE)
 # for (png_file in png_files) {
 #   # Read the png image
 #   image <- image_read(png_file)
-#   
+# 
 #   # Define the output file name
 #   output_file <- file.path(output_directory, paste0(tools::file_path_sans_ext(basename(png_file)), ".jpg"))
-#   
+# 
 #   # Write the image in jpg format
 #   image_write(image, path = output_file, format = "jpeg")
 # }
