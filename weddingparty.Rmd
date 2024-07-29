@@ -10,7 +10,7 @@ title: "Wedding Party"
 ::: {.floatting}
 
 ```{r out.width='50%', out.extra='style="float:right; padding:10px"', echo=FALSE}
-knitr::include_graphics("images/steph.png")
+knitr::include_graphics("images/steph.jpg")
 ```
 # Stephanie
 ### BFF of Honor
@@ -25,7 +25,7 @@ knitr::include_graphics("images/steph.png")
 ::: {.floatting}
 
 ```{r out.width='50%', out.extra='style="float:right; padding:10px"', echo=FALSE}
-knitr::include_graphics("images/ali.png")
+knitr::include_graphics("images/ali.jpg")
 ```
 
 # Ali
@@ -41,7 +41,7 @@ knitr::include_graphics("images/ali.png")
 ::: {.floatting}
 
 ```{r out.width='50%', out.extra='style="float:right; padding:10px"', echo=FALSE}
-knitr::include_graphics("images/malisha.png")
+knitr::include_graphics("images/malisha.jpg")
 ```
 
 # Malisha
@@ -57,7 +57,7 @@ knitr::include_graphics("images/malisha.png")
 ::: {.floatting}
 
 ```{r out.width='50%', out.extra='style="float:right; padding:10px"', echo=FALSE}
-knitr::include_graphics("images/manasa.png")
+knitr::include_graphics("images/manasa.jpg")
 ```
 
 # Manasa
@@ -73,7 +73,7 @@ knitr::include_graphics("images/manasa.png")
 ::: {.floatting}
 
 ```{r out.width='50%', out.extra='style="float:right; padding:10px"', echo=FALSE}
-knitr::include_graphics("images/pooja.png")
+knitr::include_graphics("images/pooja.jpg")
 ```
 
 # Pooja
@@ -89,7 +89,7 @@ knitr::include_graphics("images/pooja.png")
 ::: {.floatting}
 
 ```{r out.width='50%', out.extra='style="float:left; padding:10px"', echo=FALSE}
-knitr::include_graphics("images/victor.png")
+knitr::include_graphics("images/victor.jpg")
 ```
 
 # Victor
@@ -104,7 +104,7 @@ knitr::include_graphics("images/victor.png")
 ::: {.floatting}
 
 ```{r out.width='50%', out.extra='style="float:left; padding:10px"', echo=FALSE}
-knitr::include_graphics("images/i.png")
+knitr::include_graphics("images/i.jpg")
 ```
 
 # I
@@ -120,7 +120,7 @@ knitr::include_graphics("images/i.png")
 ::: {.floatting}
 
 ```{r out.width='50%', out.extra='style="float:left; padding:10px"', echo=FALSE}
-knitr::include_graphics("images/jing.png")
+knitr::include_graphics("images/jing.jpg")
 ```
 
 # Jing
@@ -136,7 +136,7 @@ knitr::include_graphics("images/jing.png")
 ::: {.floatting}
 
 ```{r out.width='50%', out.extra='style="float:left; padding:10px"', echo=FALSE}
-knitr::include_graphics("images/monique.png")
+knitr::include_graphics("images/monique.jpg")
 ```
 
 # Monique
@@ -152,7 +152,7 @@ knitr::include_graphics("images/monique.png")
 ::: {.floatting}
 
 ```{r out.width='50%', out.extra='style="float:left; padding:10px"', echo=FALSE}
-knitr::include_graphics("images/waris.png")
+knitr::include_graphics("images/waris.jpg")
 ```
 
 # Waris
@@ -168,7 +168,7 @@ knitr::include_graphics("images/waris.png")
 ::: {.floatting}
 
 ```{r out.width='50%', out.extra='style="float:left; padding:10px"', echo=FALSE}
-knitr::include_graphics("images/yvonne.png")
+knitr::include_graphics("images/yvonne.jpg")
 ```
 
 # Yvonne
@@ -183,7 +183,7 @@ knitr::include_graphics("images/yvonne.png")
 ::: {.floatting}
 
 ```{r out.width='50%', out.extra='style="float:right; padding:10px"', echo=FALSE}
-knitr::include_graphics("images/evie1.png")
+knitr::include_graphics("images/evie1.jpg")
 ```
 # Evie
 ### Floof Ambassador
@@ -198,7 +198,7 @@ Evie likes to nap.
 ::: {.floatting}
 
 ```{r out.width='50%', out.extra='style="float:right; padding:10px"', echo=FALSE}
-knitr::include_graphics("images/pippin.png")
+knitr::include_graphics("images/pippin.jpg")
 ```
 # Pippin
 ### Floof Ambassador

@@ -12,11 +12,6 @@ site: distill::distill_website
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-
-```{r, fig.align='center', out.width = "300px"}
-#knitr::include_graphics("images/pokeball.png")
-```
-
 [![Cover](images/eng14_cover.jpg)](https://lzhen4.github.io/gpetersii/pictures.html)
 
 
@@ -25,33 +20,33 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 ```{r}
-# # Convert jpg to png
+# # Convert png to jpg
 # library(magick)
 # 
 # # Set the directory containing the jpg files
-# input_directory <- "D:\\engagement_pics"
-# output_directory <- "C:\\Users\\Leslie Zhen\\Desktop\\r_data\\gpetersii\\images"
+# input_directory <- "C:\\Users\\Leslie Zhen\\Desktop\\r_data\\gpetersii\\images"
+# output_directory <- "C:\\Users\\Leslie Zhen\\Desktop\\wedding_pics"
 # 
 # # Create the output directory if it does not exist
 # if (!dir.exists(output_directory)) {
 #   dir.create(output_directory)
 # }
 # 
-# # List all jpg files in the input directory
-# jpg_files <- list.files(input_directory, pattern = "\\.jpg$", full.names = TRUE)
+# # List all png files in the input directory
+# png_files <- list.files(input_directory, pattern = "\\.png$", full.names = TRUE)
 # 
-# # Convert each jpg file to png
-# for (jpg_file in jpg_files) {
-#   # Read the jpg image
-#   image <- image_read(jpg_file)
+# # Convert each png file to jpg
+# for (png_file in png_files) {
+#   # Read the png image
+#   image <- image_read(png_file)
 #   
 #   # Define the output file name
-#   output_file <- file.path(output_directory, paste0(tools::file_path_sans_ext(basename(jpg_file)), ".png"))
+#   output_file <- file.path(output_directory, paste0(tools::file_path_sans_ext(basename(png_file)), ".jpg"))
 #   
-#   # Write the image in png format
-#   image_write(image, path = output_file, format = "png")
+#   # Write the image in jpg format
+#   image_write(image, path = output_file, format = "jpeg")
 # }
 # 
-# cat("Conversion complete. All jpg files have been converted to png format.")
+# cat("Conversion complete. All png files have been converted to jpg format.")
 ```
 
