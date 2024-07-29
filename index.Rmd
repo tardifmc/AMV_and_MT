@@ -48,5 +48,10 @@ knitr::opts_chunk$set(echo = FALSE)
 # }
 # 
 # cat("Conversion complete. All png files have been converted to jpg format.")
+
+
+
+# image resizer
+# https://imageresizer.com/
 ```
 
