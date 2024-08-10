@@ -7,6 +7,10 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 <center>
-Coming Soon
+RSVP by November 7, 2024 using this link 
+
+**[jnlwedding.anrsvp.com](https://jnlwedding.anrsvp.com/#home)**
+
+Please enter the first and last name of one member of your party. If you're responding for you and a guest (or your family), you'll be able to RSVP for your entire group.
 
 </center>
