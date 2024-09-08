@@ -9,7 +9,45 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 <center>
+# Shuttle to and from Wedding
+TBD <br>
+<br>
+<br>
 
-Coming Soon
+# Prelude
+4pm - 4:30pm <br>
+Domaine Pterion Vineyard & Winery <br>
+<a href="https://www.google.com/maps/place/Domaine+Pterion+Vineyard+%26+Winery/@40.4891637,-75.5523934,17z/data=!3m1!4b1!4m6!3m5!1s0x89c42f7d4a436df7:0xb161dcc02088d873!8m2!3d40.4891596!4d-75.5498185!16s%2Fg%2F11rk5hjlkb?entry=ttu&g_ep=EgoyMDI0MDkwNC4wIKXMDSoASAFQAw%3D%3D">6501 St Peters Rd, Macungie, PA 18062</a> <br>
+<br>
+<br>
+
+# Ceremony
+4:30pm - 5pm <br>
+Domaine Pterion Vineyard & Winery <br>
+<a href="https://www.google.com/maps/place/Domaine+Pterion+Vineyard+%26+Winery/@40.4891637,-75.5523934,17z/data=!3m1!4b1!4m6!3m5!1s0x89c42f7d4a436df7:0xb161dcc02088d873!8m2!3d40.4891596!4d-75.5498185!16s%2Fg%2F11rk5hjlkb?entry=ttu&g_ep=EgoyMDI0MDkwNC4wIKXMDSoASAFQAw%3D%3D">6501 St Peters Rd, Macungie, PA 18062</a> <br>
+Cocktail Attire <br>
+Please be seated by 4:25pm. Please silence or turn your phones off and keep them out of your hands.
+<br>
+<br>
+
+# Cocktail Hour
+5pm - 6pm <br>
+Domaine Pterion Vineyard & Winery, Lower Level <br>
+<a href="https://www.google.com/maps/place/Domaine+Pterion+Vineyard+%26+Winery/@40.4891637,-75.5523934,17z/data=!3m1!4b1!4m6!3m5!1s0x89c42f7d4a436df7:0xb161dcc02088d873!8m2!3d40.4891596!4d-75.5498185!16s%2Fg%2F11rk5hjlkb?entry=ttu&g_ep=EgoyMDI0MDkwNC4wIKXMDSoASAFQAw%3D%3D">6501 St Peters Rd, Macungie, PA 18062</a> <br>
+<br>
+<br>
+
+# Reception
+6pm - 10pm
+Domaine Pterion Vineyard & Winery, Lower Level <br>
+<a href="https://www.google.com/maps/place/Domaine+Pterion+Vineyard+%26+Winery/@40.4891637,-75.5523934,17z/data=!3m1!4b1!4m6!3m5!1s0x89c42f7d4a436df7:0xb161dcc02088d873!8m2!3d40.4891596!4d-75.5498185!16s%2Fg%2F11rk5hjlkb?entry=ttu&g_ep=EgoyMDI0MDkwNC4wIKXMDSoASAFQAw%3D%3D">6501 St Peters Rd, Macungie, PA 18062</a> <br>
+<br>
+<br>
+
+# Snow Tubing
+Bear Creek Mountain Resort <br>
+<a href="https://www.google.com/maps/place/Bear+Creek+Mountain+Resort/@40.4763143,-75.6281528,17z/data=!3m2!4b1!5s0x89c42c1ff7a3df69:0xea7811ca8bd7dc80!4m9!3m8!1s0x89c42e9fe240f443:0x68581d7db1d98bd8!5m2!4m1!1i2!8m2!3d40.4763102!4d-75.6255779!16s%2Fg%2F1tj4cf75?entry=ttu&g_ep=EgoyMDI0MDkwNC4wIKXMDSoASAFQAw%3D%3D">101 Doe Mountain Ln, Macungie, PA 18062</a> <br>
+In lieu of a bachelor party, let's go snow tubing the Friday before the ceremony! Everyone's invited. The event & exact time are TBD depending on when the 2024/2025 season opens. We'll confirm early November. Backup laser tag? 
+
 
 </center>
