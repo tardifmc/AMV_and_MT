@@ -36,7 +36,7 @@ knitr::opts_chunk$set(echo = FALSE)
 # Name one quirky trait/memory about each other.
 **J:** I have so many I could list off for Leslie. He might not look like it, but Leslie loves all things that are cute, especially animals. We went to a destination wedding last year and he spent most of the time petting and feeding the stray cats and dogs. We also traveled to Japan recently and he brought a bag of cat food so he could feed any stray cats. 
 <br> <br>
-**L:** Jina learned Glare. It's super effective!
+**L:** Jina used Glare. It's super effective!
 <br> <br>
 
 # What is our favorite Pokémon?
