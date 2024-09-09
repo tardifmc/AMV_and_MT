@@ -16,14 +16,14 @@ knitr::opts_chunk$set(echo = FALSE)
 
 To reserve a room in our hotel block, use this <a href="https://www.hilton.com/en/book/reservation/deeplink/?ctyhocn=ABEHWHW&groupCode=CHW904&arrivaldate=2024-12-06&departuredate=2024-12-08&cid=OM,WW,HILTONLINK,EN,DirectLink&fromId=HILTONLINKDIRECT">booking link</a>. <br>
 This hotel will be serviced by a shuttle to and from the wedding. 
-
+<br> <br>
 
 # What is the dress code?
 Guests are encouraged to dress in cocktail attire.
-
+<br> <br>
 
 # What are the parking options?
 The venue has a parking lot that we can use during the event. Those staying in our hotel blocks can opt in to a shuttle service when we mail invitations.
-
+<br> <br>
 
 </center>
