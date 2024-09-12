@@ -4,13 +4,16 @@ title: "RSVP"
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
+
+# **[jnlwedding.anrsvp.com](https://jnlwedding.anrsvp.com/#home)**
 ```
 
 <center>
-RSVP by November 7, 2024 using this link 
-
-**[jnlwedding.anrsvp.com](https://jnlwedding.anrsvp.com/#home)**
+RSVP by November 7, 2024 using this form. 
 
 Please enter the first and last name of one member of your party. If you're responding for you and a guest (or your family), you'll be able to RSVP for your entire group.
+
+
+<iframe src="https://jnlwedding.anrsvp.com/?embed=true" width="100%" height="100%" style="border:none; min-height: 100vh; overflow:hidden;" scrolling="no"></iframe>
 
 </center>
