@@ -10,7 +10,18 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <center>
 # Shuttle to and from Wedding
-TBD <br>
+12.7.24 <br>
+3:15pm <br>
+Depart from Homewood Suites to venue <br>
+
+3:45pm <br>
+Depart from Bear Creek to venue <br>
+
+9pm <br>
+First shuttle departs from venue to hotels <br>
+
+10pm - 10:15pm <br>
+Last shuttle departs from venue to hotels <br>
 <br> <br>
 
 
