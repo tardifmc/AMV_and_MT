@@ -8,18 +8,12 @@ title: "Wedding Party"
 # Bride's Party
 
 #### 
-- Prince
-- Gee
-- Kimberly
-- LZ
+- Peoples' names
 
 # Groom's Party
 
 ####
-- Luna
-- Diana
-- Diego
-- Mabel
+- More peoples' names
 
 
 <!-- # Bridal Party -->
