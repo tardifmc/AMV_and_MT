@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 [![Cover](images/engagement5_cover.jpg)](https://lzhen4.github.io/gpetersii/pictures.html)
 
-### Days since we started Dating
+### Days since we started Dating ###
 <div id="countdown"></div>
 <script src="js/countdown.js"></script>
 
