@@ -12,7 +12,7 @@ site: distill::distill_website
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-[![Cover](images/engagement5_cover.jpg)](https://lzhen4.github.io/gpetersii/pictures.html)
+[![Cover](images/engagement5_cover.jpg)](https://lzhen4.github.io/AMV_AND_MT/pictures.html)
 
 ### Days since we started Dating ###
 <div id="countdown"></div>
