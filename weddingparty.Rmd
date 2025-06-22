@@ -5,202 +5,220 @@ title: "Wedding Party"
 
 ---
 
+# Bride's Party
 
+#### 
+- Prince
+- Gee
+- Kimberly
+- LZ
 
-::: {.floatting}
+# Groom's Party
 
-```{r out.width='50%', out.extra='style="float:right; padding:10px"', echo=FALSE}
-knitr::include_graphics("images/steph.jpg")
-```
-# Stephanie
-### BFF of Honor
+####
+- Luna
+- Diana
+- Diego
+- Mabel
 
-:::
 
+<!-- # Bridal Party -->
 
+<!-- ::: {.floatting} -->
 
-<br>
-<br>
+<!-- ```{r out.width='50%', out.extra='style="float:right; padding:10px"', echo=FALSE} -->
+<!-- #knitr::include_graphics("images/steph.jpg") -->
+<!-- ``` -->
+<!-- # Person1 -->
+<!-- ### BFF of Honor -->
 
-::: {.floatting}
+<!-- ::: -->
 
-```{r out.width='50%', out.extra='style="float:right; padding:10px"', echo=FALSE}
-knitr::include_graphics("images/ali.jpg")
-```
 
-# Ali
-### Bridesmate
 
-:::
+<!-- <br> -->
+<!-- <br> -->
 
+<!-- ::: {.floatting} -->
 
+<!-- ```{r out.width='50%', out.extra='style="float:right; padding:10px"', echo=FALSE} -->
+<!-- knitr::include_graphics("images/ali.jpg") -->
+<!-- ``` -->
 
-<br>
-<br>
+<!-- # Ali -->
+<!-- ### Bridesmate -->
 
-::: {.floatting}
+<!-- ::: -->
 
-```{r out.width='50%', out.extra='style="float:right; padding:10px"', echo=FALSE}
-knitr::include_graphics("images/malisha.jpg")
-```
 
-# Malisha
-### Bridesmate
 
-:::
+<!-- <br> -->
+<!-- <br> -->
 
+<!-- ::: {.floatting} -->
 
+<!-- ```{r out.width='50%', out.extra='style="float:right; padding:10px"', echo=FALSE} -->
+<!-- knitr::include_graphics("images/malisha.jpg") -->
+<!-- ``` -->
 
-<br>
-<br>
+<!-- # Malisha -->
+<!-- ### Bridesmate -->
 
-::: {.floatting}
+<!-- ::: -->
 
-```{r out.width='50%', out.extra='style="float:right; padding:10px"', echo=FALSE}
-knitr::include_graphics("images/manasa.jpg")
-```
 
-# Manasa
-### Bridesmate
 
-:::
+<!-- <br> -->
+<!-- <br> -->
 
+<!-- ::: {.floatting} -->
 
+<!-- ```{r out.width='50%', out.extra='style="float:right; padding:10px"', echo=FALSE} -->
+<!-- knitr::include_graphics("images/manasa.jpg") -->
+<!-- ``` -->
 
-<br>
-<br>
+<!-- # Manasa -->
+<!-- ### Bridesmate -->
 
-::: {.floatting}
+<!-- ::: -->
 
-```{r out.width='50%', out.extra='style="float:right; padding:10px"', echo=FALSE}
-knitr::include_graphics("images/pooja.jpg")
-```
 
-# Pooja
-### Bridesmate
 
-:::
+<!-- <br> -->
+<!-- <br> -->
 
+<!-- ::: {.floatting} -->
 
+<!-- ```{r out.width='50%', out.extra='style="float:right; padding:10px"', echo=FALSE} -->
+<!-- knitr::include_graphics("images/pooja.jpg") -->
+<!-- ``` -->
 
-<br>
-<br>
+<!-- # Pooja -->
+<!-- ### Bridesmate -->
 
-::: {.floatting}
+<!-- ::: -->
 
-```{r out.width='50%', out.extra='style="float:left; padding:10px"', echo=FALSE}
-knitr::include_graphics("images/victor.jpg")
-```
 
-# Victor
-### Best Brother
 
-:::
+<!-- <br> -->
+<!-- <br> -->
 
+<!-- # Groomsparty  -->
+<!-- ::: {.floatting} -->
 
-<br>
-<br>
+<!-- ```{r out.width='50%', out.extra='style="float:left; padding:10px"', echo=FALSE} -->
+<!-- knitr::include_graphics("images/victor.jpg") -->
+<!-- ``` -->
 
-::: {.floatting}
+<!-- # Victor -->
+<!-- ### Best Brother -->
 
-```{r out.width='50%', out.extra='style="float:left; padding:10px"', echo=FALSE}
-knitr::include_graphics("images/i.jpg")
-```
+<!-- ::: -->
 
-# I
-### Groomsmate
 
-:::
+<!-- <br> -->
+<!-- <br> -->
 
+<!-- ::: {.floatting} -->
 
+<!-- ```{r out.width='50%', out.extra='style="float:left; padding:10px"', echo=FALSE} -->
+<!-- knitr::include_graphics("images/i.jpg") -->
+<!-- ``` -->
 
-<br>
-<br>
+<!-- # I -->
+<!-- ### Groomsmate -->
 
-::: {.floatting}
+<!-- ::: -->
 
-```{r out.width='50%', out.extra='style="float:left; padding:10px"', echo=FALSE}
-knitr::include_graphics("images/jing.jpg")
-```
 
-# Jing
-### Groomsmate
 
-:::
+<!-- <br> -->
+<!-- <br> -->
 
+<!-- ::: {.floatting} -->
 
+<!-- ```{r out.width='50%', out.extra='style="float:left; padding:10px"', echo=FALSE} -->
+<!-- knitr::include_graphics("images/jing.jpg") -->
+<!-- ``` -->
 
-<br>
-<br>
+<!-- # Jing -->
+<!-- ### Groomsmate -->
 
-::: {.floatting}
+<!-- ::: -->
 
-```{r out.width='50%', out.extra='style="float:left; padding:10px"', echo=FALSE}
-knitr::include_graphics("images/monique.jpg")
-```
 
-# Monique
-### Groomsmate
 
-:::
+<!-- <br> -->
+<!-- <br> -->
 
+<!-- ::: {.floatting} -->
 
+<!-- ```{r out.width='50%', out.extra='style="float:left; padding:10px"', echo=FALSE} -->
+<!-- knitr::include_graphics("images/monique.jpg") -->
+<!-- ``` -->
 
-<br>
-<br>
+<!-- # Monique -->
+<!-- ### Groomsmate -->
 
-::: {.floatting}
+<!-- ::: -->
 
-```{r out.width='50%', out.extra='style="float:left; padding:10px"', echo=FALSE}
-knitr::include_graphics("images/waris.jpg")
-```
 
-# Waris
-### Groomsmate
 
-:::
+<!-- <br> -->
+<!-- <br> -->
 
+<!-- ::: {.floatting} -->
 
+<!-- ```{r out.width='50%', out.extra='style="float:left; padding:10px"', echo=FALSE} -->
+<!-- knitr::include_graphics("images/waris.jpg") -->
+<!-- ``` -->
 
-<br>
-<br>
+<!-- # Waris -->
+<!-- ### Groomsmate -->
 
-::: {.floatting}
+<!-- ::: -->
 
-```{r out.width='50%', out.extra='style="float:left; padding:10px"', echo=FALSE}
-knitr::include_graphics("images/yvonne.jpg")
-```
 
-# Yvonne
-### Groomsmate
 
-:::
+<!-- <br> -->
+<!-- <br> -->
 
+<!-- ::: {.floatting} -->
 
-<br>
-<br>
+<!-- ```{r out.width='50%', out.extra='style="float:left; padding:10px"', echo=FALSE} -->
+<!-- knitr::include_graphics("images/yvonne.jpg") -->
+<!-- ``` -->
 
-::: {.floatting}
+<!-- # Yvonne -->
+<!-- ### Groomsmate -->
 
-```{r out.width='50%', out.extra='style="float:right; padding:10px"', echo=FALSE}
-knitr::include_graphics("images/evie1.jpg")
-```
-# Evie
-### Floof Ambassador
-Evie likes to nap.
-:::
+<!-- ::: -->
 
 
+<!-- <br> -->
+<!-- <br> -->
 
-<br>
-<br>
+<!-- ::: {.floatting} -->
 
-::: {.floatting}
+<!-- ```{r out.width='50%', out.extra='style="float:right; padding:10px"', echo=FALSE} -->
+<!-- knitr::include_graphics("images/evie1.jpg") -->
+<!-- ``` -->
+<!-- # Evie -->
+<!-- ### Floof Ambassador -->
+<!-- Evie likes to nap. -->
+<!-- ::: -->
 
-```{r out.width='50%', out.extra='style="float:right; padding:10px"', echo=FALSE}
-knitr::include_graphics("images/pippin.jpg")
-```
-# Pippin
-### Floof Ambassador
-Pippin's been cleaning her tux for the occasion. 
-:::
+
+
+<!-- <br> -->
+<!-- <br> -->
+
+<!-- ::: {.floatting} -->
+
+<!-- ```{r out.width='50%', out.extra='style="float:right; padding:10px"', echo=FALSE} -->
+<!-- knitr::include_graphics("images/pippin.jpg") -->
+<!-- ``` -->
+<!-- # Pippin -->
+<!-- ### Floof Ambassador -->
+<!-- Pippin's been cleaning her tux for the occasion.  -->
+<!-- ::: -->

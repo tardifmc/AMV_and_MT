@@ -32,7 +32,7 @@ div.sourceCode { overflow: auto; }
 }
 @media print {
 pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
 }
 pre.numberSource code
   { counter-reset: source-line 0; }
@@ -455,8 +455,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   </style>
 
   <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
-  <link href="site_libs/font-awesome-6.4.2/css/all.min.css" rel="stylesheet"/>
-  <link href="site_libs/font-awesome-6.4.2/css/v4-shims.min.css" rel="stylesheet"/>
+  <link href="site_libs/font-awesome-6.5.2/css/all.min.css" rel="stylesheet"/>
+  <link href="site_libs/font-awesome-6.5.2/css/v4-shims.min.css" rel="stylesheet"/>
   <script src="site_libs/headroom-0.9.4/headroom.min.js"></script>
   <script src="site_libs/autocomplete-0.37.1/autocomplete.min.js"></script>
   <script src="site_libs/fuse-6.4.1/fuse.min.js"></script>
@@ -2454,7 +2454,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     color: var(--hover-color, white);
   }</style>
   <!--/radix_placeholder_distill-->
-  <script src="site_libs/header-attrs-2.27/header-attrs.js"></script>
+  <script src="site_libs/header-attrs-2.29/header-attrs.js"></script>
   <script src="site_libs/popper-2.6.0/popper.min.js"></script>
   <link href="site_libs/tippy-6.2.7/tippy.css" rel="stylesheet" />
   <link href="site_libs/tippy-6.2.7/tippy-light-border.css" rel="stylesheet" />
@@ -2511,123 +2511,141 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
 <div class="d-article">
-<div class="floatting">
-<div class="layout-chunk" data-layout="l-body">
-<p><img src="images/steph.jpg" width="50%" style="float:right; padding:10px" /></p>
-</div>
-<h1 id="stephanie">Stephanie</h1>
-<h3 id="bff-of-honor">BFF of Honor</h3>
-</div>
-<p><br>
-<br></p>
-<div class="floatting">
-<div class="layout-chunk" data-layout="l-body">
-<p><img src="images/ali.jpg" width="50%" style="float:right; padding:10px" /></p>
-</div>
-<h1 id="ali">Ali</h1>
-<h3 id="bridesmate">Bridesmate</h3>
-</div>
-<p><br>
-<br></p>
-<div class="floatting">
-<div class="layout-chunk" data-layout="l-body">
-<p><img src="images/malisha.jpg" width="50%" style="float:right; padding:10px" /></p>
-</div>
-<h1 id="malisha">Malisha</h1>
-<h3 id="bridesmate-1">Bridesmate</h3>
-</div>
-<p><br>
-<br></p>
-<div class="floatting">
-<div class="layout-chunk" data-layout="l-body">
-<p><img src="images/manasa.jpg" width="50%" style="float:right; padding:10px" /></p>
-</div>
-<h1 id="manasa">Manasa</h1>
-<h3 id="bridesmate-2">Bridesmate</h3>
-</div>
-<p><br>
-<br></p>
-<div class="floatting">
-<div class="layout-chunk" data-layout="l-body">
-<p><img src="images/pooja.jpg" width="50%" style="float:right; padding:10px" /></p>
-</div>
-<h1 id="pooja">Pooja</h1>
-<h3 id="bridesmate-3">Bridesmate</h3>
-</div>
-<p><br>
-<br></p>
-<div class="floatting">
-<div class="layout-chunk" data-layout="l-body">
-<p><img src="images/victor.jpg" width="50%" style="float:left; padding:10px" /></p>
-</div>
-<h1 id="victor">Victor</h1>
-<h3 id="best-brother">Best Brother</h3>
-</div>
-<p><br>
-<br></p>
-<div class="floatting">
-<div class="layout-chunk" data-layout="l-body">
-<p><img src="images/i.jpg" width="50%" style="float:left; padding:10px" /></p>
-</div>
-<h1 id="i">I</h1>
-<h3 id="groomsmate">Groomsmate</h3>
-</div>
-<p><br>
-<br></p>
-<div class="floatting">
-<div class="layout-chunk" data-layout="l-body">
-<p><img src="images/jing.jpg" width="50%" style="float:left; padding:10px" /></p>
-</div>
-<h1 id="jing">Jing</h1>
-<h3 id="groomsmate-1">Groomsmate</h3>
-</div>
-<p><br>
-<br></p>
-<div class="floatting">
-<div class="layout-chunk" data-layout="l-body">
-<p><img src="images/monique.jpg" width="50%" style="float:left; padding:10px" /></p>
-</div>
-<h1 id="monique">Monique</h1>
-<h3 id="groomsmate-2">Groomsmate</h3>
-</div>
-<p><br>
-<br></p>
-<div class="floatting">
-<div class="layout-chunk" data-layout="l-body">
-<p><img src="images/waris.jpg" width="50%" style="float:left; padding:10px" /></p>
-</div>
-<h1 id="waris">Waris</h1>
-<h3 id="groomsmate-3">Groomsmate</h3>
-</div>
-<p><br>
-<br></p>
-<div class="floatting">
-<div class="layout-chunk" data-layout="l-body">
-<p><img src="images/yvonne.jpg" width="50%" style="float:left; padding:10px" /></p>
-</div>
-<h1 id="yvonne">Yvonne</h1>
-<h3 id="groomsmate-4">Groomsmate</h3>
-</div>
-<p><br>
-<br></p>
-<div class="floatting">
-<div class="layout-chunk" data-layout="l-body">
-<p><img src="images/evie1.jpg" width="50%" style="float:right; padding:10px" /></p>
-</div>
-<h1 id="evie">Evie</h1>
-<h3 id="floof-ambassador">Floof Ambassador</h3>
-<p>Evie likes to nap.</p>
-</div>
-<p><br>
-<br></p>
-<div class="floatting">
-<div class="layout-chunk" data-layout="l-body">
-<p><img src="images/pippin.jpg" width="50%" style="float:right; padding:10px" /></p>
-</div>
-<h1 id="pippin">Pippin</h1>
-<h3 id="floof-ambassador-1">Floof Ambassador</h3>
-<p>Pippin’s been cleaning her tux for the occasion.</p>
-</div>
+<h1 id="brides-party">Bride’s Party</h1>
+<h4 id="section"></h4>
+<ul>
+<li>Prince</li>
+<li>Gee</li>
+<li>Kimberly</li>
+<li>LZ</li>
+</ul>
+<h1 id="grooms-party">Groom’s Party</h1>
+<h4 id="section-1"></h4>
+<ul>
+<li>Luna</li>
+<li>Diana</li>
+<li>Diego</li>
+<li>Mabel</li>
+</ul>
+<!-- # Bridal Party -->
+<!-- ::: {.floatting} -->
+<!-- ```{r out.width='50%', out.extra='style="float:right; padding:10px"', echo=FALSE} -->
+<!-- #knitr::include_graphics("images/steph.jpg") -->
+<!-- ``` -->
+<!-- # Person1 -->
+<!-- ### BFF of Honor -->
+<!-- ::: -->
+<!-- <br> -->
+<!-- <br> -->
+<!-- ::: {.floatting} -->
+<!-- ```{r out.width='50%', out.extra='style="float:right; padding:10px"', echo=FALSE} -->
+<!-- knitr::include_graphics("images/ali.jpg") -->
+<!-- ``` -->
+<!-- # Ali -->
+<!-- ### Bridesmate -->
+<!-- ::: -->
+<!-- <br> -->
+<!-- <br> -->
+<!-- ::: {.floatting} -->
+<!-- ```{r out.width='50%', out.extra='style="float:right; padding:10px"', echo=FALSE} -->
+<!-- knitr::include_graphics("images/malisha.jpg") -->
+<!-- ``` -->
+<!-- # Malisha -->
+<!-- ### Bridesmate -->
+<!-- ::: -->
+<!-- <br> -->
+<!-- <br> -->
+<!-- ::: {.floatting} -->
+<!-- ```{r out.width='50%', out.extra='style="float:right; padding:10px"', echo=FALSE} -->
+<!-- knitr::include_graphics("images/manasa.jpg") -->
+<!-- ``` -->
+<!-- # Manasa -->
+<!-- ### Bridesmate -->
+<!-- ::: -->
+<!-- <br> -->
+<!-- <br> -->
+<!-- ::: {.floatting} -->
+<!-- ```{r out.width='50%', out.extra='style="float:right; padding:10px"', echo=FALSE} -->
+<!-- knitr::include_graphics("images/pooja.jpg") -->
+<!-- ``` -->
+<!-- # Pooja -->
+<!-- ### Bridesmate -->
+<!-- ::: -->
+<!-- <br> -->
+<!-- <br> -->
+<!-- # Groomsparty  -->
+<!-- ::: {.floatting} -->
+<!-- ```{r out.width='50%', out.extra='style="float:left; padding:10px"', echo=FALSE} -->
+<!-- knitr::include_graphics("images/victor.jpg") -->
+<!-- ``` -->
+<!-- # Victor -->
+<!-- ### Best Brother -->
+<!-- ::: -->
+<!-- <br> -->
+<!-- <br> -->
+<!-- ::: {.floatting} -->
+<!-- ```{r out.width='50%', out.extra='style="float:left; padding:10px"', echo=FALSE} -->
+<!-- knitr::include_graphics("images/i.jpg") -->
+<!-- ``` -->
+<!-- # I -->
+<!-- ### Groomsmate -->
+<!-- ::: -->
+<!-- <br> -->
+<!-- <br> -->
+<!-- ::: {.floatting} -->
+<!-- ```{r out.width='50%', out.extra='style="float:left; padding:10px"', echo=FALSE} -->
+<!-- knitr::include_graphics("images/jing.jpg") -->
+<!-- ``` -->
+<!-- # Jing -->
+<!-- ### Groomsmate -->
+<!-- ::: -->
+<!-- <br> -->
+<!-- <br> -->
+<!-- ::: {.floatting} -->
+<!-- ```{r out.width='50%', out.extra='style="float:left; padding:10px"', echo=FALSE} -->
+<!-- knitr::include_graphics("images/monique.jpg") -->
+<!-- ``` -->
+<!-- # Monique -->
+<!-- ### Groomsmate -->
+<!-- ::: -->
+<!-- <br> -->
+<!-- <br> -->
+<!-- ::: {.floatting} -->
+<!-- ```{r out.width='50%', out.extra='style="float:left; padding:10px"', echo=FALSE} -->
+<!-- knitr::include_graphics("images/waris.jpg") -->
+<!-- ``` -->
+<!-- # Waris -->
+<!-- ### Groomsmate -->
+<!-- ::: -->
+<!-- <br> -->
+<!-- <br> -->
+<!-- ::: {.floatting} -->
+<!-- ```{r out.width='50%', out.extra='style="float:left; padding:10px"', echo=FALSE} -->
+<!-- knitr::include_graphics("images/yvonne.jpg") -->
+<!-- ``` -->
+<!-- # Yvonne -->
+<!-- ### Groomsmate -->
+<!-- ::: -->
+<!-- <br> -->
+<!-- <br> -->
+<!-- ::: {.floatting} -->
+<!-- ```{r out.width='50%', out.extra='style="float:right; padding:10px"', echo=FALSE} -->
+<!-- knitr::include_graphics("images/evie1.jpg") -->
+<!-- ``` -->
+<!-- # Evie -->
+<!-- ### Floof Ambassador -->
+<!-- Evie likes to nap. -->
+<!-- ::: -->
+<!-- <br> -->
+<!-- <br> -->
+<!-- ::: {.floatting} -->
+<!-- ```{r out.width='50%', out.extra='style="float:right; padding:10px"', echo=FALSE} -->
+<!-- knitr::include_graphics("images/pippin.jpg") -->
+<!-- ``` -->
+<!-- # Pippin -->
+<!-- ### Floof Ambassador -->
+<!-- Pippin's been cleaning her tux for the occasion.  -->
+<!-- ::: -->
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->
 <!--/radix_placeholder_article_footer-->
