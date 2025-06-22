@@ -7,15 +7,15 @@ navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "Story"
+    - text: "Our Story"
       href: story.html
     - text: "Schedule"
       href: schedule.html
     - text: "RSVP"
       href: rsvp.html
-    - text: "Registry"
+    - text: "Gifts"
       href: registry.html
-    - text: "Party"
+    - text: "Wedding Party"
       href: weddingparty.html
     - text: "Pictures"
       href: pictures.html
