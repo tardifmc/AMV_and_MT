@@ -1,5 +1,5 @@
 ---
-title: "Registry"
+title: "Registry - Honeymoon to Victoria falls"
 ---
 
 ```{r setup, include=FALSE}
@@ -8,49 +8,62 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <center>
 ::: {.floatting}
-
-<a href = "https://account.venmo.com/u/Jina-Yun-2">
-```{r out.width='25%', out.extra='style="float:left; padding:10px"', echo=FALSE}
-knitr::include_graphics("images/honeymoon.png") 
+### Victoria falls honeymoon fund ###
+<a href = "https://account.venmo.com/u/Monique-Tardif">
+```{r out.width='25%', echo=FALSE}
+knitr::include_graphics("images/victoria_falls-1110x700.jpg") 
 ```
+
+#### Our favourite memories together involve travelling, whether from roadtrips, foodtrips, to flying across the globe. We chose Victoria falls as a honeymoon destination for a few reasons: 
+1) We love water, and waterfalls. Fallingwater is a big part of our memories together
+2) Mountains and surreal terrains is a close second to beautiful bodies of water
+3) What a perfect excuse to go somewhere further away than ever before, than getting lost on our honeymoon
 :::
 </a>
 
+<!-- ::: {.floatting} -->
+<!-- ### Victoria falls honeymoon fund ### -->
+<!-- <a href = "https://account.venmo.com/u/Monique-Tardif"> -->
+<!-- ```{r out.width='25%', out.extra='style="float:left; padding:10px"', echo=FALSE} -->
+<!-- knitr::include_graphics("images/victoria_falls-1110x700.jpg")  -->
+<!-- ``` -->
+<!-- ::: -->
+<!-- </a> -->
 
-::: {.floatting}
-<a href = "https://www.amazon.com/wedding/share/jina_leslie">
-```{r out.width='30%', out.extra='style="float:right; padding:10px"', echo=FALSE}
-knitr::include_graphics("images/amazon.png") 
-```
-:::
-</a>
-
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-::: {.floatting}
-<a href = "https://www.target.com/gift-registry/gift/jina-leslie4">
-```{r out.width='30%', out.extra='style="float:left; padding:10px"', echo=FALSE}
-knitr::include_graphics("images/target.png") 
-```
-:::
-</a>
+<!-- ::: {.floatting} -->
+<!-- <a href = "https://www.amazon.com/wedding/share/jina_leslie"> -->
+<!-- ```{r out.width='30%', out.extra='style="float:right; padding:10px"', echo=FALSE} -->
+<!-- knitr::include_graphics("images/amazon.png")  -->
+<!-- ``` -->
+<!-- ::: -->
+<!-- </a> -->
 
 
-::: {.floatting}
-<a href = "https://www.potterybarn.com/registry/5rh9p2vxtk/registry-list.html">
-```{r out.width='30%', out.extra='style="float:right; padding:10px"', echo=FALSE}
-knitr::include_graphics("images/potterybarn.png") 
-```
-:::
-</a>
-</center>
+
+<!-- <br> -->
+<!-- <br> -->
+<!-- <br> -->
+<!-- <br> -->
+<!-- <br> -->
+<!-- <br> -->
+<!-- <br> -->
+<!-- <br> -->
+<!-- <br> -->
+
+<!-- ::: {.floatting} -->
+<!-- <a href = "https://www.target.com/gift-registry/gift/jina-leslie4"> -->
+<!-- ```{r out.width='30%', out.extra='style="float:left; padding:10px"', echo=FALSE} -->
+<!-- knitr::include_graphics("images/target.png")  -->
+<!-- ``` -->
+<!-- ::: -->
+<!-- </a> -->
+
+
+<!-- ::: {.floatting} -->
+<!-- <a href = "https://www.potterybarn.com/registry/5rh9p2vxtk/registry-list.html"> -->
+<!-- ```{r out.width='30%', out.extra='style="float:right; padding:10px"', echo=FALSE} -->
+<!-- knitr::include_graphics("images/potterybarn.png")  -->
+<!-- ``` -->
+<!-- ::: -->
+<!-- </a> -->
+<!-- </center> -->
