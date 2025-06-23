@@ -20,26 +20,34 @@ knitr::opts_chunk$set(echo = FALSE)
 ## Will I be invited to the wedding? 
 ### Honestly, if you're reading this at this point, probably. But then again, I don't know. 
 
+
 ## When is the RSVP deadline?
 ### Please RSVP by DATE to help us finalize the guest count. Please understand that RSVPs beyond this date cannot be accommodated.
+
 
 ## Can I take photos or videos during the ceremony?
 ### No! We are asking all of our guests to power off their devices and keep them out of sight during the ceremony. This will help our professional team of photographer and videographers to achieve the nicest unobstructed views of the ceremony. This will also allow you to enjoy the moment in your memories alongside of us. 
 
+
 ## Can I bring a plus one?
 ### Please check your invitation for details. 
+
 
 ## Are kids welcome? 
 ### As much as we'd love to share our evening with your little ones, we will be keeping this celebration to adults only. Thank you for understanding.
 
+
 ## What time should we arrive?
 ### Please refer to the schedule. We will be doing our very best to stay on schedule, so please help us by arriving 15-20 minutes before the scheduled time. 
+
 
 ## Where should I park? 
 ### Parking info, I guess?
 
+
 ## What should I wear? 
 ### Dress code is semi formal. Elegant and chic attire; think suits, knee+ length dresses, dress shoes, heels or dressy flats. Please wear approriate clothing for the occasion. 
+
 
 ## whom should I contact with questions? 
 ### WEDDING SPECIFIC EMAIL
