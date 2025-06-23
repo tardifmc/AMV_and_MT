@@ -10,15 +10,15 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <center>
 ## When are we getting married? 
-###I don't know. Good question
+### I don't know. Good question
 
 
 ## Where is the wedding going to be? 
-###I don't know, again. Great question. 
+### I don't know, again. Great question. 
 
 
 ## Will I be invited to the wedding? 
-###Honestly, if you're reading this at this point, probably. But then again, I don't know. 
+### Honestly, if you're reading this at this point, probably. But then again, I don't know. 
 <br> <br> <br>
 
 </center>
