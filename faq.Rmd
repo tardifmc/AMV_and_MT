@@ -19,6 +19,29 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Will I be invited to the wedding? 
 ### Honestly, if you're reading this at this point, probably. But then again, I don't know. 
+
+## When is the RSVP deadline?
+### Please RSVP by DATE to help us finalize the guest count. Please understand that RSVPs beyond this date cannot be accommodated.
+
+## Can I bring a plus one?
+### Please check your invitation for details. 
+
+## Are kids welcome? 
+### As much as we'd love to share our evening with your little ones, we will be keeping this celebration to adults only. Thank you for understanding.
+
+## What time should we arrive?
+### Please refer to the schedule. We will be doing our very best to stay on schedule, so please help us by arriving 15-20 minutes before the scheduled time. 
+
+## Where should I park? 
+### Parking info, I guess?
+
+## What should I wear? 
+### Dress code is semi formal. Please wear approriate clothing for the occasion. 
+
+## whom should I contact with questions? 
+### WEDDING SPECIFIC EMAIL
+
+
 <br> <br> <br>
 
 </center>
