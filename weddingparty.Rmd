@@ -21,7 +21,7 @@ title: "Wedding Party"
 <!-- ::: {.floatting} -->
 
 <!-- ```{r out.width='50%', out.extra='style="float:right; padding:10px"', echo=FALSE} -->
-<!-- #knitr::include_graphics("images/steph.jpg") -->
+<!-- #knitr::include_graphics("images/Prince_1.jpg") -->
 <!-- ``` -->
 <!-- # Person1 -->
 <!-- ### BFF of Honor -->
