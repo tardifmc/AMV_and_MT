@@ -1,7 +1,7 @@
 ---
 title: "Pictures"
 # description: |
-#   some pictures
+#   some pictures from the engagment
 # pixture library from https://github.com/royfrancis/pixture
 ---
 
@@ -9,14 +9,58 @@ title: "Pictures"
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+We got engaged on the beach at the chapel on the rock in gaia outside of Porto, Portugal. We said yes on June 11th 2025
 
 ```{r}
 paths <- c(
-  "images/engagement1.png",
-  "images/engagement2.png",
-  "images/engagement3.png",
-  "images/engagement4.jpg",
-  "images/engagement5_cover.jpg"
+  "images/Engagement/engagement1.png",
+  "images/Engagement/engagement2.png",
+  "images/Engagement/engagement3.png",
+  "images/Engagement/engagement4.jpg",
+  "images/Engagement/engagement5.jpg",
+  "images/Engagement/engagement6.jpg",
+  "images/Engagement/engagement7.jpg",
+
+)
+
+#library(pixture)
+pixture::pixgallery(paths)
+```
+
+We've been going on adventures since 2021. Here are some of our favourite highlights. 
+Fue en adventuras depois de 2021. algunas photos favoritas desde aventuras. 
+Depuis 2021 nous allons en aventure. Voici quelques photos de nos moments préférés
+
+```{r}
+paths <- c(
+  "Adventure_pics/pic1.png",
+  "Adventure_pics/pic22.png",
+  "Adventure_pics/pic3.png",
+  "Adventure_pics/pic4.jpg",
+  "Adventure_pics/pic5.jpg",
+  "Adventure_pics/pic6.jpg",
+  "Adventure_pics/pic7.jpg",
+  "Adventure_pics/pic8.jpg",
+  "Adventure_pics/pic9.jpg",
+  "Adventure_pics/pic10.jpg",
+  "Adventure_pics/pic11.jpg",
+  "Adventure_pics/pic12.jpg",
+  "Adventure_pics/pic13.jpg",
+  "Adventure_pics/pic14.jpg",
+  "Adventure_pics/pic15.jpg",
+  "Adventure_pics/pic16.jpg",
+  "Adventure_pics/pic17.jpg",
+  "Adventure_pics/pic18.jpg",
+  "Adventure_pics/pic19.jpg",
+  "Adventure_pics/pic20.jpg",
+  "Adventure_pics/pic21.jpg",
+  "Adventure_pics/pic22.jpg",
+  "Adventure_pics/pic23.jpg",
+  "Adventure_pics/pic24.jpg",
+  "Adventure_pics/pic25.jpg",
+  "Adventure_pics/pic26.jpg",
+  "Adventure_pics/pic27.jpg",
+  "Adventure_pics/pic28.jpg"
 
 )
 
