@@ -76,9 +76,7 @@ pixture::pixgallery(paths)
 paths <- c(  "images/Prince_1.jpg", "images/Prince_2.jpeg")
 pixture::pixgallery(paths)
 ```
-  Prince has known Monique since Grade 4! As kids they bonded over Beanie Babies and singing 60s pop songs. They’ve been friends for over 20 years. Prince likes horror movies and dancing until he passes out. 
-  
-MT: My oldest friend. From the recesses at Sainte-Madeleine to discovering ourselves and each other in 2026. thank you for having stood by me throughout all of our chapters. Thank you for seeing me in a way that will always be humbling and grounded, and allowing me to grow alongside you on our journeys.  
+  Prince has known Monique since Grade 4! As kids they bonded over Beanie Babies and singing 60s pop songs. They’ve been friends for over 20 years. Prince likes horror movies and dancing until he passes out.  
  :::
 
 <br> 
@@ -95,9 +93,7 @@ pixture::pixgallery(paths)
 ```
 
   I met Monique on the first day of grade 10, she was the first person to talk to me in school as a new student when I knew no one. I didn’t realize that our paths crossing that day would result in over 17 years of lore.  Monique has always been an incredibly inspiring, kind hearted, and hilarious, brilliant mind for as long as I’ve known her. She always encouraged me to be brave and reach for my goals, from teaching me to play bass in music class when I was 16 to making me introduce myself to a band when I was 22, that I now work my dream job for. We witnessed each other change and persevere and chase our dreams. I couldn’t be more proud of who she is and I’m honoured to still be a part of her journey to this day. I’m so grateful to know you and to call you my precious friend. 
-  Once you share a cookie you know it’s true!!! ❤️
-
-MT: Gee, the shenanigans we pulled...Thank you for listening to me and my stories throughout the years, and always believing in me and rooting for me. You always made me feel loved and at home, no matter what continent I was on. Thank you for always making time for a walk, to play pokémon, and/or drink bubble tea.    
+  Once you share a cookie you know it’s true!!! ❤️  
  :::
  
 <br> 
@@ -114,9 +110,7 @@ pixture::pixgallery(paths)
 ```
 
   Here’s proof of that chaos is the best kind of friendship! 
-KimoniqueCowbueingyZeraffephantOnASkateboardWithWings forever!
-
-MT: Kimberly, I always knew that when we spent time together we're trying something new, and I'm going to laugh. From prom dresses to wedding gowns, thank you for sharing important life events with me and the little lunch moments in between. Thank you for taking the Finch East bus with me for year, even though there were faster ways home for you, and still driving in today to spend time together. Thank you for bringing joy and whimsy, so consistently, into my life.  
+KimoniqueCowbueingyZeraffephantOnASkateboardWithWings forever!  
  :::
  
 <br> 
@@ -135,9 +129,7 @@ pixture::pixgallery(paths)
 Leslie met Monique in school in 2020. We were in a zoom chat for a class and she figured out the code for the stats question sooooooooo fast. I like to think that she’s part of the reason why I now know how to add error bars on plots. Since then, we’ve shared many snack filled adventures, heists, and plenty of mischief. I am grateful for our friendship and so happy to celebrate this exciting chapter of your life. 
 
 ### Slightly solicited advertisement break: 
-Hello. This is your local Guyco messaging you about a limited time offer prepared just for you. Did you that 15 minutes can save you 15 percent or more on friend insurance? Well, we have an even better offer just for you! You spend 16 minutes and we will throw in a toaster so you can be extra toasty this winter. Hurry and claim you offer now! Please message 412-447-1826 to claim your offer. Message and data rates may apply. 
-
-MT: The leafography says it all. Shenanigans, Doctors, eating cake on a sidewalk after running around Oakland, lifting heavy metal, and drinking a year supply of slushies in 20 minutes. Thank you for making the darkest of times a little brighter. And thank you for loving cats N'at so unashamedly much. pat pat pat. And most of all, thank you for driving 15 hours out of your way and playing question games with a relative stranger who knows how to use a shovel. T  
+Hello. This is your local Guyco messaging you about a limited time offer prepared just for you. Did you that 15 minutes can save you 15 percent or more on friend insurance? Well, we have an even better offer just for you! You spend 16 minutes and we will throw in a toaster so you can be extra toasty this winter. Hurry and claim you offer now! Please message 412-447-1826 to claim your offer. Message and data rates may apply.   
  :::
 
  
