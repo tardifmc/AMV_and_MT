@@ -1,7 +1,7 @@
 // countdown.js
 
 // Set the date we're counting down to
-var countDownDate = new Date("January 4, 2023 23:59:59").getTime();
+var countDownDate = new Date("October 23, 2026 23:59:59").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
@@ -10,7 +10,7 @@ var x = setInterval(function() {
   var now = new Date().getTime();
  
   // Find the distance between now and the count down date
-  var distance = countDownDate - now; 
+  var distance = now - countDownDate ; 
   // I changed the - to a + in this line to get time since we started dating
  
   // Time calculations for days, hours, minutes and seconds

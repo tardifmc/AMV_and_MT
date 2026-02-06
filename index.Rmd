@@ -1,7 +1,7 @@
 ---
 title: "Monique&nbsp;&&nbsp;Alejandro"
 description: |
-  Sometime in the future | Somewhere in the future
+  Paroise du Sacré-Coeur | Arts and Letters Club
 
 site: distill::distill_website
 ---
@@ -12,9 +12,9 @@ site: distill::distill_website
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-[![Cover](images/engagement5_cover.jpg)](https://lzhen4.github.io/AMV_AND_MT/pictures.html)
+[![Cover](images/engagement6.jpg)](https://tardifmc.github.io/AMV_and_MT/pictures.html)
 
-### Days since we started Dating ###
+### Time Until the Wedding ###
 <div id="countdown"></div>
 <script src="js/countdown.js"></script>
 

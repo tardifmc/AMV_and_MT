@@ -1,7 +1,7 @@
 ---
 title: "Pictures"
 # description: |
-#   some pictures from the engagment
+#   some pictures from the engagment & Adventures 
 # pixture library from https://github.com/royfrancis/pixture
 ---
 
@@ -9,7 +9,7 @@ title: "Pictures"
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-We got engaged on the beach at the chapel on the rock in gaia outside of Porto, Portugal. We said yes on June 11th 2025
+On July 11th, 2025 we got engaged on a beach at the chapel on the rock in Gaia outside of Porto, Portugal. Here are some snapshots of that day.
 
 ```{r}
 paths <- c(
@@ -26,7 +26,7 @@ paths <- c(
 pixture::pixgallery(paths)
 ```
 
-We've been going on adventures since 2021. Here are some of our favourite highlights. 
+Since 2021, we've been going on adventures. Here are some of our favourite highlights. 
 Fue en adventuras depois de 2021. algunas photos favoritas desde aventuras. 
 Depuis 2021 nous allons en aventure. Voici quelques photos de nos moments préférés
 
