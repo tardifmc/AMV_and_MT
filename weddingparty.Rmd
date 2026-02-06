@@ -16,6 +16,7 @@ title: "Wedding Party"
 ```
 # Prince Poirier
  ### Best Man
+ 
   Prince has known Monique since Grade 4! As kids they bonded over Beanie Babies and singing 60s pop songs. They’ve been friends for over 20 years. Prince likes horror movies and dancing until he passes out. 
   
 ```{r out.width='50%', out.extra='style="float:right; padding:10px"', echo=FALSE}
@@ -33,6 +34,7 @@ title: "Wedding Party"
 ```
 # Gee Peeva
  ### Bridesmate
+ 
   I met Monique on the first day of grade 10, she was the first person to talk to me in school as a new student when I knew no one. I didn’t realize that our paths crossing that day would result in over 17 years of lore.  Monique has always been an incredibly inspiring, kind hearted, and hilarious, brilliant mind for as long as I’ve known her. She always encouraged me to be brave and reach for my goals, from teaching me to play bass in music class when I was 16 to making me introduce myself to a band when I was 22, that I now work my dream job for. We witnessed each other change and persevere and chase our dreams. I couldn’t be more proud of who she is and I’m honoured to still be a part of her journey to this day. I’m so grateful to know you and to call you my precious friend. Once you share a cookie you know it’s true!!! I love you so much Monique ❤️
   
 ```{r out.width='50%', out.extra='style="float:right; padding:10px"', echo=FALSE}
@@ -68,6 +70,7 @@ KimoniqueCowbueingyZeraffephantOnASkateboardWithWings forever!
 ```
 # Leslie Zhen
  ### Bridesmate
+ 
  Leslie met Monique in school in 2020. We were in a zoom chat for a class and she figured out the code for the stats question sooooooooo fast. I like to think that she’s part of the reason why I now know how to add error bars on plots. Since then, we’ve shared many snack filled adventures, heists, and plenty of mischief. I am grateful for our friendship and so happy to celebrate this exciting chapter of your life. 
 
 Slightly solicited advertisement break: 
