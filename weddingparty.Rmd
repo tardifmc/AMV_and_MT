@@ -105,7 +105,7 @@ pixture::pixgallery(paths)
 ### Bridesmate
 
 ```{r}
-paths <- c(  "images/Kim_1.jpg", "images/Kim_2.jpg")
+paths <- c(  "images/Kim_1.jpg", "images/Kim_2.JPG")
 pixture::pixgallery(paths)
 ```
 
