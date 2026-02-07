@@ -10,7 +10,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <center>
 ## When are we getting married? 
-### I don't know. Good question
+### October 24th, 2026
+### Time until the wedding: 
+<div id="countdown"></div>
+<script src="js/countdown.js"></script>
 
 
 ## Where is the wedding going to be? 
