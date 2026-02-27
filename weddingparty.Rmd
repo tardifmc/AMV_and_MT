@@ -19,7 +19,7 @@ Dear wedding party, an innumerably and indissoluble Thank You, Gracias, Merci
 ### Maid of Honour
 
 ```{r}
-paths <- c(  "images/Luna_1.jpg", "images/Luna_2.jpg")
+paths <- c(  "images/Luna_1.jpg", "images/Luna_2.jpeg")
 pixture::pixgallery(paths)
 ```
 
@@ -33,7 +33,7 @@ pixture::pixgallery(paths)
 ## Diana Sanabria Romero
 ### Groomsmate
 ```{r}
-paths <- c(  "images/Luna_1.jpg", "images/Luna_2.jpg")
+paths <- c(  "images/Diana_1.jpg", "images/Diana_2.jpg")
 pixture::pixgallery(paths)
 ```
 
@@ -48,7 +48,7 @@ pixture::pixgallery(paths)
 ### Groomsmate
 
 ```{r}
-paths <- c(  "images/Luna_1.jpg", "images/Luna_2.jpg")
+paths <- c(  "images/Anzola_1.jpeg", "images/Anzola_2.jpeg")
 pixture::pixgallery(paths)
 ```
 
