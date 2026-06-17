@@ -7,7 +7,7 @@ title: "Wedding Party"
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-Here is our chance to highlight some of the most important people in our lives. These people have been there through tough times and great times. These are the friends we wish to highlight today and ask you, if you see them around, to thank them for being such a important part of the path that lead us to where we are today. 
+Here is our chance to highlight some of the most important people in our lives. These people have been there through tough times and great times. These are the friends we wish to highlight today and ask you, if you see them around, to thank them for being such an important part of the path that has lead us to where we are today. 
 
 Dear wedding party, an innumerably and indissoluble Thank You, Gracias, Merci
 

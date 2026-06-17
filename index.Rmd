@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 [![Cover](images/engagement6.jpg)](https://tardifmc.github.io/AMV_and_MT/pictures.html)
 
-### Time Until the Wedding ###
+### Time Until we get Married! ###
 <div id="countdown"></div>
 <script src="js/countdown.js"></script>
 
