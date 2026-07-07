@@ -1,5 +1,5 @@
 ---
-title: "Registry - Honeymoon to Victoria falls"
+title: "Registry"
 ---
 
 ```{r setup, include=FALSE}
@@ -8,16 +8,29 @@ knitr::opts_chunk$set(echo = FALSE)
 
 <center>
 ::: {.floatting}
-### Victoria falls honeymoon fund ###
+# Honeymoon Fund ###
 <a href = "https://account.venmo.com/u/Monique-Tardif">
 ```{r out.width='25%', echo=FALSE}
 knitr::include_graphics("images/victoria_falls-1110x700.jpg") 
 ```
 
-#### Our favourite memories together involve travelling, whether from roadtrips, foodtrips, to flying across the globe. We chose Victoria falls as a honeymoon destination for a few reasons: 
+## Our favourite memories involve travelling together
+Roadtrips, foodtrips, to flying across the globe. We chose to split our honeymoon into two trips. The first will be to Copenhagen, Denmark! 
+We were able to secure a reservation to the iconic Michelin star winning Alchemist, and Kadeau restaurants. We are excited to eat sensational foods in a bicycling friendly city!
+
+The second will be Zambia, including Victoria falls! Why you may ask? 
 1) We love water, and waterfalls. Fallingwater is a big part of our memories together
-2) Mountains and surreal terrains is a close second to beautiful bodies of water
-3) What a perfect excuse to go somewhere further away than ever before, than getting lost on our honeymoon
+2) Mountains and surreal terrains is a close second to beautiful bodies of water as our favourites
+3) Alejandro will be doing an international placement in Zambia and it's a perfect opportunity to extend the trip
+
+## If you prefer to give us a physical gift here are some options: 
+
+
+<a href="https://www.lecreuset.com/signature-sauteuse-3-1-2-qt/21198US.html"> Le Creuset Signature Sauteuse, Colour: Provence
+</a>
+
+<a href="https://www.lecreuset.com/round-dutch-oven/21177US.html"> Le Creuset Signature Round Dutch Oven, Colour: Provence </a>
+
 :::
 </a>
 
