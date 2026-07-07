@@ -7,70 +7,88 @@ title: "Wedding Party"
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-Here is our chance to highlight some of the most important people in our lives. These people have been there through tough times and great times. These are the friends we wish to highlight today and ask you, if you see them around, to thank them for being such an important part of the path that has lead us to where we are today. 
+Here is our chance to highlight some of the most important people in our lives. These people have been there through tough times and great times. As we highlight these friends we ask you, if you see them around, to thank them for being such an important part of the pathes that have lead us here today. 
 
 Dear wedding party, an innumerably and indissoluble Thank You, Gracias, Merci
 
 
-# Groom's Party
-
 ####
 ## Luna Muñoz Valencia
-### Maid of Honour
+### Hermana of Honour
+
 
 ```{r}
-paths <- c(  "images/Luna_1.jpg", "images/Luna_2.jpeg")
+paths <- c(  "images/Luna_3.png", "images/Luna_1.jpg", "images/Luna_2.jpeg")
 pixture::pixgallery(paths)
 ```
-
+  
+  Esta experiencia es difícil de explicar porque no encuentro palabras suficientes para
+describir todo lo que me hace sentir. Hemos sido cómplices, mejores amigos y compañeros
+de vida desde siempre. Al verte hoy aquí, a punto de casarte, siento una mezcla de
+nostalgia, emoción y felicidad. Me emociona ver todo lo que hemos crecido y la hermosa
+persona en la que te has convertido.
+Hoy mi mejor amigo, mi héroe, mi hermano se casa con una gran mujer, una persona a la
+que admiro y quiero mucho. Verte feliz a su lado me llena de alegría, porque sé que has
+encontrado a alguien con quien compartir todo lo bueno que llevas dentro.
+Siempre hemos sido los dos contra el mundo, y sé que eso nunca cambiará. En mí siempre
+encontrarás apoyo, amor, admiración y respeto. Eres un hombre con un corazón enorme,
+generoso, noble y lleno de cosas buenas para ofrecer. Estoy convencida de que esta
+relación es fuerte, los dos son personas maravillosas, merecedoras uno del otro
+Hoy es un día muy especial. Hoy es su día. El día en que nos hacen testigos de su amor, de
+su unión y del comienzo de una nueva etapa juntos. Gracias por darme la alegría y el
+privilegio de ser tu hermana. Es algo que me llena de orgullo y que me ha dado fuerza y
+seguridad durante toda mi vida.
+Felicidades a los dos. Que nunca les falten motivos para sonreír, para elegirse cada día y
+para seguir caminando juntos de la mano.
+Escribiendo esto con el corazón en las manos, atentamente
+-Tu hermana
  :::
  
 <br> 
 <br>
 
+<!-- ::: {.floatting}  -->
+
+<!-- ## Diana Sanabria Romero -->
+<!-- ### Groomsmate -->
+<!-- ```{r} -->
+<!-- paths <- c(  "images/Diana_1.jpg", "images/Diana_2.jpg") -->
+<!-- pixture::pixgallery(paths) -->
+<!-- ``` -->
+
+<!--  ::: -->
+
+<!-- <br>  -->
+<!-- <br> -->
+
+<!-- ::: {.floatting}  -->
+
+<!-- ## Diego Anzola Bustos -->
+<!-- ### Groomsmate -->
+
+<!-- ```{r} -->
+<!-- paths <- c(  "images/Anzola_1.jpeg", "images/Anzola_2.jpeg") -->
+<!-- pixture::pixgallery(paths) -->
+<!-- ``` -->
+
+<!--  ::: -->
+
+
+<!-- <br>  -->
+<!-- <br> -->
+<!-- <br>  -->
+<!-- <br> -->
+
 ::: {.floatting} 
 
-## Diana Sanabria Romero
-### Groomsmate
-```{r}
-paths <- c(  "images/Diana_1.jpg", "images/Diana_2.jpg")
-pixture::pixgallery(paths)
-```
 
- :::
- 
-<br> 
-<br>
-
-::: {.floatting} 
-
-## Diego Anzola Bustos
-### Groomsmate
-
-```{r}
-paths <- c(  "images/Anzola_1.jpeg", "images/Anzola_2.jpeg")
-pixture::pixgallery(paths)
-```
-
- :::
-
- 
-<br> 
-<br>
-<br> 
-<br>
-
-::: {.floatting} 
-
-
-
-## Bride's Party
 
 ::: {.floatting} 
 
 
 ## Prince Poirier
-### Bestman
+### Homme of Honour
+
 
 ```{r}
 paths <- c(  "images/Prince_1.jpg", "images/Prince_2.jpeg")
@@ -86,6 +104,7 @@ pixture::pixgallery(paths)
 
 ## Gee Peeva
 ### Bridesmate
+
 
 ```{r}
 paths <- c(  "images/Gee_1.jpg", "images/Gee_2.jpg")
@@ -104,12 +123,13 @@ pixture::pixgallery(paths)
 ## Kimberly Wong
 ### Bridesmate
 
+
 ```{r}
 paths <- c(  "images/Kim_1.jpg", "images/Kim_2.JPG")
 pixture::pixgallery(paths)
 ```
 
-  Here’s proof of that chaos is the best kind of friendship! 
+  Here’s proof that chaos is the best kind of friendship! 
 KimoniqueCowbueingyZeraffephantOnASkateboardWithWings forever!  
  :::
  
@@ -120,6 +140,7 @@ KimoniqueCowbueingyZeraffephantOnASkateboardWithWings forever!
 
 ## Leslie Zhen
 ### Bridesmate
+
 
 ```{r}
 paths <- c(  "images/LZ_1.jpg", "images/LZ_2.jpg")
@@ -143,7 +164,7 @@ Hello. This is your local Guyco messaging you about a limited time offer prepare
 
 
 
-# Honourable Mentions
+# Honourable Michi
 
 <br>
 <br>
@@ -154,22 +175,22 @@ Hello. This is your local Guyco messaging you about a limited time offer prepare
 knitr::include_graphics("images/pippin.jpg")
 ```
 # Pippin
-### Floof Ambassador
-Pippin's been cleaning her tux for the occasion.
+### La Pelousita
+Pippin's been fixing up her tux for the occasion
 :::
 
 
 
 
-<br>
-<br>
+<!-- <br> -->
+<!-- <br> -->
 
-::: {.floatting}
+<!-- ::: {.floatting} -->
 
-```{r out.width='50%', out.extra='style="float:right; padding:10px"', echo=FALSE}
-knitr::include_graphics("images/evie1.jpg")
-```
-# Evie
-### Floof Ambassador
-Evie likes to nap.
-:::
+<!-- ```{r out.width='50%', out.extra='style="float:right; padding:10px"', echo=FALSE} -->
+<!-- knitr::include_graphics("images/evie1.jpg") -->
+<!-- ``` -->
+<!-- # Evie -->
+<!-- ### Floof Ambassador -->
+<!-- Evie likes to nap. -->
+<!-- ::: -->

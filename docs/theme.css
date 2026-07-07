@@ -103,10 +103,12 @@ d-appendix {
 
 /* Background image */
 body {
-  background-image: url('images/BG_1.png');
-  background-size: cover; /* Ensure the image covers the entire background */
-  background-position: center; /* Center the image */
-  background-repeat: yes-repeat; /* Repeat the image to fill screen*/
+  background-image: url('images/BG_5.png');
+  background-repeat: no-repeat; /* Repeat the image to fill screen*/
+  background-position: left center;
+  background-size: cover; /* preserves floral detail, no stretch */
+  background-attachment: fixed;
+  min-height: 100vh;
 }
 
 /* Ensure all text elements are white */

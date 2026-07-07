@@ -20,8 +20,9 @@
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css" data-origin="pandoc">
+html { -webkit-text-size-adjust: 100%; }
 pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
 pre > code.sourceCode > span:empty { height: 1.2em; }
 .sourceCode { overflow: visible; }
 code.sourceCode > span { color: inherit; text-decoration: inherit; }
@@ -32,7 +33,7 @@ div.sourceCode { overflow: auto; }
 }
 @media print {
 pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
 }
 pre.numberSource code
   { counter-reset: source-line 0; }
@@ -88,20 +89,20 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
   <!--radix_placeholder_meta_tags-->
-  <title> : RSVP</title>
+  <title>Monique and Alejandro: RSVP</title>
 
 
 
 
   <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
-  <meta property="og:title" content=" : RSVP"/>
+  <meta property="og:title" content="Monique and Alejandro: RSVP"/>
   <meta property="og:type" content="article"/>
   <meta property="og:locale" content="en_US"/>
-  <meta property="og:site_name" content=" "/>
+  <meta property="og:site_name" content="Monique and Alejandro"/>
 
   <!--  https://dev.twitter.com/cards/types/summary -->
   <meta property="twitter:card" content="summary"/>
-  <meta property="twitter:title" content=" : RSVP"/>
+  <meta property="twitter:title" content="Monique and Alejandro: RSVP"/>
 
   <!--/radix_placeholder_meta_tags-->
   <!--radix_placeholder_rmarkdown_metadata-->
@@ -2278,10 +2279,12 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
   /* Background image */
   body {
-    background-image: url('images/BG_1.png');
-    background-size: cover; /* Ensure the image covers the entire background */
-    background-position: center; /* Center the image */
-    background-repeat: yes-repeat; /* Repeat the image to fill screen*/
+    background-image: url('images/BG_5.png');
+    background-repeat: no-repeat; /* Repeat the image to fill screen*/
+    background-position: left center;
+    background-size: cover; /* preserves floral detail, no stretch */
+    background-attachment: fixed;
+    min-height: 100vh;
   }
 
   /* Ensure all text elements are white */
@@ -2454,7 +2457,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     color: var(--hover-color, white);
   }</style>
   <!--/radix_placeholder_distill-->
-  <script src="site_libs/header-attrs-2.29/header-attrs.js"></script>
+  <script src="site_libs/header-attrs-2.31/header-attrs.js"></script>
   <script src="site_libs/popper-2.6.0/popper.min.js"></script>
   <link href="site_libs/tippy-6.2.7/tippy.css" rel="stylesheet" />
   <link href="site_libs/tippy-6.2.7/tippy-light-border.css" rel="stylesheet" />
@@ -2482,15 +2485,15 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <header class="header header--fixed" role="banner">
 <nav class="distill-site-nav distill-site-header">
 <div class="nav-left">
-<a href="index.html" class="title"> </a>
+<a href="index.html" class="title">Monique and Alejandro</a>
 </div>
 <div class="nav-right">
 <a href="index.html">Home</a>
-<a href="story.html">Our Story</a>
+<a href="story.html">Story</a>
 <a href="schedule.html">Schedule</a>
 <a href="rsvp.html">RSVP</a>
-<a href="registry.html">Gifts</a>
-<a href="weddingparty.html">Wedding Party</a>
+<a href="registry.html">Registry</a>
+<a href="party.html">Party</a>
 <a href="pictures.html">Pictures</a>
 <a href="faq.html">FAQ</a>
 <a href="javascript:void(0);" class="nav-toggle">&#9776;</a>
@@ -2512,8 +2515,8 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 <div class="d-article">
 <center>
-<p>RSVP by DATE.</p>
-<p>Please enter the first and last name of one member of your party. If you’re responding for you and a guest (or your family), you’ll be able to RSVP for your entire group.</p>
+<h1 id="rsvp-by-august-14th-2026---click-here"><a href="https://monique-et-alejandro.anrsvp.com"> RSVP by August 14th, 2026 - click here </a></h1>
+<p>Please enter the first and last name of one members of your party. If you’re responding for you and a guest (or family), you’ll be able to RSVP for your entire group from one name.Contact us directly if you have any issues.</p>
 <!-- <iframe src="https://jnlwedding.anrsvp.com/?embed=true" width="100%" height="100%" style="border:none; min-height: 100vh; overflow:hidden;" scrolling="no"></iframe> -->
 </center>
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>

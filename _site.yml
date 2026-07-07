@@ -16,7 +16,7 @@ navbar:
     - text: "Registry"
       href: registry.html
     - text: "Party"
-      href: weddingparty.html
+      href: party.html
     - text: "Pictures"
       href: pictures.html
     - text: "FAQ"

@@ -9,9 +9,11 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 <center>
-RSVP by DATE. 
+# <a href="https://monique-et-alejandro.anrsvp.com"> RSVP by August 14th, 2026 - click here </a>
 
-Please enter the first and last name of one member of your party. If you're responding for you and a guest (or your family), you'll be able to RSVP for your entire group.
+
+Please enter the first and last name of one members of your party. If you're responding for you and a guest (or family), you'll be able to RSVP for your entire group from one name.Contact us directly if you have any issues.
+
 
 
 <!-- <iframe src="https://jnlwedding.anrsvp.com/?embed=true" width="100%" height="100%" style="border:none; min-height: 100vh; overflow:hidden;" scrolling="no"></iframe> -->
