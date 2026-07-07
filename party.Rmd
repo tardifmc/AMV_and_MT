@@ -7,9 +7,10 @@ title: "Wedding Party"
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
 Here is our chance to highlight some of the most important people in our lives. These people have been there through tough times and great times. As we highlight these friends we ask you, if you see them around, to thank them for being such an important part of the pathes that have lead us here today. 
 
-Dear wedding party, an innumerably and indissoluble Thank You, Gracias, Merci
+Dear wedding party, an innumerably and indissoluble Thank You, Gracias, Merci <3
 
 
 ####
@@ -42,6 +43,7 @@ Felicidades a los dos. Que nunca les falten motivos para sonreír, para elegirse
 para seguir caminando juntos de la mano.
 Escribiendo esto con el corazón en las manos, atentamente
 -Tu hermana
+
  :::
  
 <br> 
