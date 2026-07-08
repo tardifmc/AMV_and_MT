@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ::: {.floatting}
 # Honeymoon Fund ###
 <a href = "https://account.venmo.com/u/Monique-Tardif">
-```{r , echo=FALSE}
+```{r out.width='50%', echo=FALSE}
 knitr::include_graphics("images/AMVMT_travel.jpg") 
 ```
 
