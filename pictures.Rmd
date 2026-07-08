@@ -33,7 +33,7 @@ Depuis 2021 nous allons en aventure. Voici quelques photos de nos moments pr√©f√
 ```{r}
 paths <- c(
   "Adventure_pics/pic1.jpeg",
-  "Adventure_pics/pic22.jpeg",
+  "Adventure_pics/pic2.jpeg",
   "Adventure_pics/pic3.jpeg",
   "Adventure_pics/pic4.jpeg",
  # "Adventure_pics/pic5.jpeg",
