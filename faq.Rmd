@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = FALSE)
  ::: 
 
 ## Where is the wedding going to be? 
-### The ceremony will be at the church Sacré-Coeur. 
+### The ceremony will be at the church Sacré-Coeur at 381 Sherbourne St, Toronto, ON M4X 1K4, Canada.
 
  :::
 
