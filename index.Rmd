@@ -5,12 +5,10 @@ description: |
 
 site: distill::distill_website
 ---
-
-
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+# Please RSVP by August 14th, 2026
 
 [![Cover](images/engagement6.jpg)](https://tardifmc.github.io/AMV_and_MT/pictures.html)
 
