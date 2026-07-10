@@ -9,10 +9,12 @@ knitr::opts_chunk$set(echo = FALSE)
 <center>
 ::: {.floatting}
 # Honeymoon Fund ###
-<a href = "https://account.venmo.com/u/Monique-Tardif">
+<a href = "https://account.venmo.com/u/Monique-Tardif"> Venmo link </a>
 ```{r out.width='50%', echo=FALSE}
 knitr::include_graphics("images/AMVMT_travel.jpg") 
 ```
+
+If you wish you share gift with us we kindly request cash to put towards our travels
 
 ## Our favourite memories involve travelling together
 Roadtrips, foodtrips, to flying across the globe. We chose to split our honeymoon into two trips. The first will be to Copenhagen, Denmark! 
@@ -26,7 +28,7 @@ The second will be Zambia, including Victoria falls! Why you may ask?
 ### If you prefer to give us a physical gift here are some options: 
 
 
-#### <a href="https://www.lecreuset.com/signature-sauteuse-3-1-2-qt/21198US.html"> Le Creuset Signature Sauteuse, Colour: Provence
+#### <a href="https://www.lecreuset.com/signature-sauteuse-3-1-2-qt/21198US.html"> Le Creuset Signature Sauteuse, Colour: Cerise
 </a>
 
 #### <a href="https://www.lecreuset.com/round-dutch-oven/21177US.html"> Le Creuset Signature Round Dutch Oven, Colour: Provence </a>
