@@ -48,7 +48,7 @@ knitr::opts_chunk$set(echo = FALSE)
  :::
 
 ## Where should I park? 
-### Please see the Schedule tab for parking information. the church provides some parking, there is on street parking, and the arts and letters club is only a leisurely 15 minutes walk away (and there is parking there)! 
+### Please see the Schedule tab for parking information. the church provides some parking, there is on street parking, and the arts and letters club is only a short 5 minute uber or leisurely 15 minutes walk! 
 
  :::
 
