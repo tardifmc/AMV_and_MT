@@ -14,6 +14,9 @@ knitr::opts_chunk$set(echo = FALSE)
 
 Please enter the first and last name of one members of your party. If you're responding for you and a guest (or family), you'll be able to RSVP for your entire group from one name.Contact us directly if you have any issues.
 
+Please note: 
+  We love your little ones, but have opted for a child-free wedding. Additionally, we request formal wear for those in attendance. If any of these pose any limitations please contact us directly. 
+
 
 
 <!-- <iframe src="https://jnlwedding.anrsvp.com/?embed=true" width="100%" height="100%" style="border:none; min-height: 100vh; overflow:hidden;" scrolling="no"></iframe> -->
