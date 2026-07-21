@@ -1,5 +1,5 @@
 ---
-title: "Monique &nbsp;&&nbsp;Alejandro"
+title: "Monique&nbsp;&&nbsp;Alejandro"
 description: |
   Paroise du Sacré-Coeur | Arts and Letters Club
 

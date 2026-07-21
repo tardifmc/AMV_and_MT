@@ -14,24 +14,27 @@ knitr::opts_chunk$set(echo = FALSE)
 knitr::include_graphics("images/AMVMT_travel.jpg") 
 ```
 
-If you wish you share gift with us we kindly request cash to put towards our travels
+If you wish you share gift with us we kindly request cash/cheque/etransfer to put towards our travels
 
 ## Our favourite memories involve travelling together
-Roadtrips, foodtrips, to flying across the globe. We chose to split our honeymoon into two trips. The first will be to Copenhagen, Denmark! 
+Roadtrips, foodtrips, and visiting new places. 
+We chose to split our honeymoon into two trips. The first will be to Copenhagen, Denmark! 
 We were able to secure a reservation to the iconic Michelin star winning Alchemist, and Kadeau restaurants. We are excited to eat sensational foods in a bicycling friendly city!
 
 The second will be Zambia, including Victoria falls! Why you may ask? 
-1) We love water, and waterfalls. Fallingwater is a big part of our memories together
-2) Mountains and surreal terrains is a close second to beautiful bodies of water as our favourites
-3) Alejandro will be doing an international placement in Zambia and it's a perfect opportunity to extend the trip
+1) We love water, and waterfalls. Fallingwater has been a big part of our memories together
+2) Mountains and surreal terrains is a close second to beautiful waterfalls
+3) Alejandro will be doing an international placement in Zambia and it's a perfect opportunity to extend the trip!
 
-### If you prefer to give us a physical gift here are some options: 
+### If you prefer to give us a physical gift here are some suggestions: 
 
 
-#### <a href="https://www.lecreuset.com/signature-sauteuse-3-1-2-qt/21198US.html"> Le Creuset Signature Sauteuse, Colour: Cerise
+### <a href="https://www.lecreuset.com/signature-sauteuse-3-1-2-qt/21198US.html"> Le Creuset Signature Sauteuse, Colour: Cerise
 </a>
 
-#### <a href="https://www.lecreuset.com/round-dutch-oven/21177US.html"> Le Creuset Signature Round Dutch Oven, Colour: Provence </a>
+### <a href="https://www.lecreuset.com/round-dutch-oven/21177US.html"> Le Creuset Signature Round Dutch Oven, Colour: Provence </a>
+
+### <a href="https://www.dyson.com/vacuum-cleaners/uprights/ball-animal-3/nickel"> A Dyson Vacuum </a>
 
 :::
 </a>
