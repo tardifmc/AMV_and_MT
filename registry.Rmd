@@ -13,10 +13,6 @@ knitr::opts_chunk$set(echo = FALSE)
 knitr::include_graphics("images/AMVMT_travel.jpg") 
 ```
 
-If you wish to share a gift with us we kindly request cash/cheque/etransfer to put towards our travels
-
-<a href = "https://account.venmo.com/u/Monique-Tardif"> Venmo link </a>
-
 ## Our favourite memories involve travelling together
 Roadtrips, foodtrips, and visiting new places. 
 We chose to split our honeymoon into two trips. The first will be to Copenhagen, Denmark! 
@@ -26,6 +22,13 @@ The second will be Zambia, including Victoria falls! Why you may ask?
 1) We love water, and waterfalls. Fallingwater has been a big part of our memories together
 2) Mountains and surreal terrains is a close second to beautiful waterfalls
 3) Alejandro will be doing an international placement in Zambia and it's a perfect opportunity to extend the trip!
+
+:::
+
+
+If you wish to share a gift with us we kindly request cash/cheque/etransfer to put towards our travels
+
+### <a href = "https://account.venmo.com/u/Monique-Tardif"> Venmo link </a>
 
 ### If you prefer to give us a physical gift here are some suggestions: 
 <ul style="display: inline-block; text-align: left;">
