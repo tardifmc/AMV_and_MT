@@ -1,7 +1,5 @@
 ---
-title: "Monique Tardif
-&nbsp;&&nbsp;
-Alejandro Muñoz Valencia"
+title: "Monique &nbsp;&&nbsp;Alejandro"
 description: |
   Paroise du Sacré-Coeur | Arts and Letters Club
 
@@ -12,11 +10,13 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 # <a href= "https://monique-et-alejandro.anrsvp.com/#home" style="text-decoration: underline;"> Please RSVP by August 14th, 2026 </a>
 
-[![Cover](images/engagement6.jpg)](https://tardifmc.github.io/AMV_and_MT/pictures.html)
 
-### Time Until we get Married! ###
-<div id="countdown"></div>
-<script src="js/countdown.js"></script>
+[![Cover](images/engagement6.jpg)](https://tardifmc.github.io/AMV_and_MT/pictures.html)
+ Alejandro Muñoz Valencia & Monique Tardif in Gaia, Portugal
+
+
+## Time Until we get Married!
+<div id="countdown"></div><script src="js/countdown.js"></script>
 
 
 ```{r}
