@@ -9,12 +9,13 @@ knitr::opts_chunk$set(echo = FALSE)
 <center>
 ::: {.floatting}
 # Honeymoon Fund ###
-<a href = "https://account.venmo.com/u/Monique-Tardif"> Venmo link </a>
 ```{r out.width='50%', echo=FALSE}
 knitr::include_graphics("images/AMVMT_travel.jpg") 
 ```
 
-If you wish you share gift with us we kindly request cash/cheque/etransfer to put towards our travels
+If you wish to share a gift with us we kindly request cash/cheque/etransfer to put towards our travels
+
+<a href = "https://account.venmo.com/u/Monique-Tardif"> Venmo link </a>
 
 ## Our favourite memories involve travelling together
 Roadtrips, foodtrips, and visiting new places. 
@@ -27,17 +28,15 @@ The second will be Zambia, including Victoria falls! Why you may ask?
 3) Alejandro will be doing an international placement in Zambia and it's a perfect opportunity to extend the trip!
 
 ### If you prefer to give us a physical gift here are some suggestions: 
-
-
-### <a href="https://www.lecreuset.com/signature-sauteuse-3-1-2-qt/21198US.html"> Le Creuset Signature Sauteuse, Colour: Cerise
-</a>
-
-### <a href="https://www.lecreuset.com/round-dutch-oven/21177US.html"> Le Creuset Signature Round Dutch Oven, Colour: Provence </a>
-
-### <a href="https://www.dyson.com/vacuum-cleaners/uprights/ball-animal-3/nickel"> A Dyson Vacuum </a>
+<ul style="display: inline-block; text-align: left;">
+###  <li> <a href="https://www.lecreuset.com/signature-sauteuse-3-1-2-qt/21198US.html"> Le Creuset Signature Sauteuse, Colour: Cerise
+</a></li>
+  <li><a href="https://www.lecreuset.com/round-dutch-oven/21177US.html"> Le Creuset Signature Round Dutch Oven, Colour: Provence </a></li>
+  <li><a href="https://www.dyson.com/vacuum-cleaners/uprights/ball-animal-3/nickel"> Dyson Vacuum </a>
+</li>
+</ul>
 
 :::
-</a>
 
 <!-- ::: {.floatting} -->
 <!-- ### Victoria falls honeymoon fund ### -->
