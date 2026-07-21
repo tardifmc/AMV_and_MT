@@ -16,7 +16,7 @@ paths <- c(
   "images/engagement1.JPG",
   "images/engagement2.JPG",
   "images/engagement3.JPG",
-  "images/engagement4.JPG",
+  "images/engagement7.jpg",
   "images/engagement5.JPG",
   "images/engagement6.JPG"
 

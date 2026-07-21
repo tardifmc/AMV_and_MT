@@ -1,5 +1,7 @@
 ---
-title: "Monique&nbsp;&&nbsp;Alejandro"
+title: "Monique Tardif
+&nbsp;&&nbsp;
+Alejandro Muñoz Valencia"
 description: |
   Paroise du Sacré-Coeur | Arts and Letters Club
 
