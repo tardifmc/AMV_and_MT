@@ -8,7 +8,8 @@ site: distill::distill_website
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-# <a href= "https://monique-et-alejandro.anrsvp.com/#home" style="text-decoration: underline;"> Please RSVP by August 14th, 2026 </a>
+
+Dress code is formal. Please arrive by 2:15pm. See you there!
 
 
 [![Cover](images/engagement6.jpg)](https://tardifmc.github.io/AMV_and_MT/pictures.html)

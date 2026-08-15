@@ -22,12 +22,12 @@ knitr::opts_chunk$set(echo = FALSE)
 
  :::
 
-## When is the RSVP deadline?
-### Please RSVP by August 14th, 2026 to help us finalize the guest count. Please understand that RSVPs beyond this date cannot be accommodated.
+## What should I wear? 
+### Dress code is formal. Elegant and chic attire; think suits, full length dresses, dress shoes, heels or dressy flats. Please enjoy the opportunity to dress up and wear your nicest outfit! 
 
  :::
 
-## I don't speak french and I'm not catholic can I still attend the ceremony? 
+## I don't speak french and/or I'm not catholic can I still attend the ceremony? 
 ### The wedding mass will take place in a french catholic church. You do not need to be a francophone or a practicing catholic to attend. We simply ask that you come witness our union. You may participate to the best of your ability if you're confirmed in the church. Otherwise you are welcome to attend and respect this important tradition. We will provide guidance for the mass parts, and trilingual elements will be included. 
 
  :::
@@ -48,12 +48,8 @@ knitr::opts_chunk$set(echo = FALSE)
  :::
 
 ## Where should I park? 
-### Please see the Schedule tab for parking information. the church provides some parking, there is on street parking, and the arts and letters club is only a short 5 minute uber or leisurely 15 minutes walk! 
+### Please see the Schedule tab for parking information. the church provides some parking, there is on street parking, and the arts and letters club is only a short 5 minute uber or leisurely 15 minutes walk from the church! 
 
- :::
-
-## What should I wear? 
-### Dress code is formal. Elegant and chic attire; think suits, full length dresses, dress shoes, heels or dressy flats. Please enjoy the opportunity to dress up and wear your nicest outfit!
 
  :::
 
@@ -65,6 +61,12 @@ knitr::opts_chunk$set(echo = FALSE)
 ## I haven't been to Toronto before is it safe to walk around? 
 ### Toronto is extremely safe! In late fall it might be a little chilly, so make sure to dress for the weather and bring an outdoor layer. The area outside of the church can have a mixed crowd, specially at Allan's gardens. Stay aware and in a group and you shouldn't need to worry! Closer to the reception space is the notorious Sankofa square, lots of lights, people, and things to see. 
 Fun fact: Monique worked at the Toronto Metropolitan University for a year after her undergrad!
+
+
+ :::
+ 
+## Do you have any restaurant recommendations or Recommendations for Toronto in General?
+### Here are some suggestions! <a href="https://docs.google.com/document/d/133mRe0F14Qju6gMqyXFNaj32oiTU5WLvLHH79OkIhrQ/edit?usp=sharing"> Monique's guide to Toronto - click here </a> and if you're looking for another opinion for food. <a href="https://guide.michelin.com/us/en/ontario/toronto/restaurants"> Michelin Food Guide Toronto - click here </a>
 
  :::
  
