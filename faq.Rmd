@@ -28,7 +28,7 @@ knitr::opts_chunk$set(echo = FALSE)
  :::
 
 ## I don't speak french and/or I'm not catholic can I still attend the ceremony? 
-### The wedding mass will take place in a french catholic church. You do not need to be a francophone or a practicing catholic to attend. We simply ask that you come witness our union. You may participate to the best of your ability if you're confirmed in the church. Otherwise you are welcome to attend and respect this important tradition. We will provide guidance for the mass parts, and trilingual elements will be included. 
+### The wedding mass will take place in a french catholic church. You do not need to be a francophone or a practicing catholic to attend. We simply ask that you come witness our union. You may participate to the best of your ability if you're confirmed in the catholic church. Otherwise you are welcome to attend and respect this important tradition. We will provide guidance for the mass parts, and trilingual elements will be included. 
 
  :::
 
