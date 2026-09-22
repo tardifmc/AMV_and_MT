@@ -9,8 +9,9 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 # Hotel Block
-We recommend staying at the very conveniently located Chelsea hotel. Please use the following link to book your stay to enjoy the courtesy rate. The preferred rate is complete and no longer available. 
-<!-- <a href="https://reservation.brilliantbylangham.com/?adult=1&arrive=2026-10-23&chain=10316&child=0&config=brilliant&currency=CAD&depart=2026-10-25&group=TMW102326&hotel=59052&level=hotel&locale=en-US&productcurrency=CAD&rooms=1&theme=brilliant" style="text-decoration: underline;"> Chelsea link - click here </a> -->
+We recommend staying at the very conveniently located Chelsea hotel. Please use the following link to book your stay to enjoy the courtesy rate. 
+<!-- The preferred rate is complete and no longer available.  -->
+<a href="https://reservation.brilliantbylangham.com/?adult=1&arrive=2026-10-23&chain=10316&child=0&config=brilliant&currency=CAD&depart=2026-10-25&group=TMW102326&hotel=59052&level=hotel&locale=en-US&productcurrency=CAD&rooms=1&theme=brilliant" style="text-decoration: underline;"> Chelsea link - click here </a>
 <br>
 
 
